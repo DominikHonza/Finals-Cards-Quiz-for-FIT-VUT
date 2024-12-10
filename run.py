@@ -163,18 +163,39 @@ def refresh_menu():
     menu_label.pack(pady=20)
 
     menu_config = load_menu_config()
+
+    # Ensure all items have a category
     for item in menu_config:
-        button_frame = tk.Frame(menu_frame)
-        button_frame.pack(pady=5, fill="x")
+        if "category" not in item:
+            item["category"] = "Uncategorized"
 
-        button = tk.Button(button_frame, text=item["name"], command=lambda file=item["questions"]: start_quiz(file), font=("Arial", 12, "bold"), width=20, anchor="w")
-        button.pack(side="left", padx=5)
+    # Group menu items by category
+    categorized_menu = {}
+    for item in menu_config:
+        category = item["category"]
+        if category not in categorized_menu:
+            categorized_menu[category] = []
+        categorized_menu[category].append(item)
 
-        delete_button = tk.Button(button_frame, text="Delete", command=lambda name=item["name"]: delete_set(name), font=("Arial", 12, "bold"), width=10)
-        delete_button.pack(side="left", padx=5)
+    # Display categories and their question sets
+    for category, items in categorized_menu.items():
+        category_label = tk.Label(menu_frame, text=f"{category}:", font=("Arial", 12, "bold"))
+        category_label.pack(pady=10, anchor="w")
+
+        for item in items:
+            button_frame = tk.Frame(menu_frame)
+            button_frame.pack(pady=5, fill="x")
+
+            button = tk.Button(button_frame, text=item["name"], command=lambda file=item["questions"]: start_quiz(file), font=("Arial", 12, "bold"), width=40, anchor="w")
+            button.pack(side="left", padx=5)
+
+            delete_button = tk.Button(button_frame, text="Delete", command=lambda name=item["name"]: delete_set(name), font=("Arial", 12, "bold"), width=10)
+            delete_button.pack(side="left", padx=5)
 
     add_set_button = tk.Button(menu_frame, text="Add New Set", command=open_add_form, font=("Arial", 12, "bold"), width=30)
     add_set_button.pack(pady=10)
+
+
 
 # Create the GUI
 root = tk.Tk()

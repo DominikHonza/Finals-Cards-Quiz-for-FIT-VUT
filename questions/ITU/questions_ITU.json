@@ -237,7 +237,6 @@
         "question": "Při prototypování GUI je validace a verifikace vhodná pro zjištění:",
         "options": [
             "Finanční náročnost vývoje produktu",
-            "Chyb v implementaci funkcí produktu",
             "Počtu použitých příkazů",
             "Frekvence užívání nápovědy",
             "Kolikrát rozhraní zmátlo uživatele"

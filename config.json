@@ -1,30 +1,42 @@
 [
     {
         "name": "ITA I - IT to CZ",
-        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_I.json"
+        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_I.json",
+        "category": "ITA"
     },
     {
         "name": "ITA II - IT to CZ",
-        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_II.json"
+        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_II.json",
+        "category": "ITA"
     },
     {
         "name": "ITA III - IT to CZ",
-        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_III.json"
+        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_III.json",
+        "category": "ITA"
     },
     {
         "name": "ITA IV - IT to CZ",
-        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_IV.json"
+        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_IV.json",
+        "category": "ITA"
     },
     {
         "name": "ITA ALL",
-        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_ALL.json"
+        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_I_TO_CZ_ALL.json",
+        "category": "ITA"
     },
     {
         "name": "ITA I - CZ to IT",
-        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_CZ_TO_I_I.json"
+        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_CZ_TO_I_I.json",
+        "category": "ITA"
     },
     {
         "name": "ITA IV - CZ to IT",
-        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_CZ_TO_I_IV.json"
+        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITA/questions_ITA_CZ_TO_I_IV.json",
+        "category": "ITA"
+    },
+    {
+        "name": "ITU",
+        "questions": "/mnt/c/Users/Domin/Desktop/\u0160kola/Finals-Cards-Quiz-for-FIT-VUT/questions/ITU/questions_ITU.json",
+        "category": "ITU"
     }
 ]
