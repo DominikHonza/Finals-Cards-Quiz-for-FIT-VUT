@@ -1,0 +1,2221 @@
+[
+    {
+        "question": "artista",
+        "options": ["umělec", "herec", "tatínek", "kolo"],
+        "answers": ["umělec"]
+    },
+    {
+        "question": "attore/attrice",
+        "options": ["umělec", "herec/herečka", "zpěvák/zpěvačka", "fotbalista"],
+        "answers": ["herec/herečka"]
+    },
+    {
+        "question": "babbo",
+        "options": ["tatínek", "čokoláda", "lyžař", "zpěvák/zpěvačka"],
+        "answers": ["tatínek"]
+    },
+    {
+        "question": "bicicletta",
+        "options": ["kolo", "motorka", "město", "kravata"],
+        "answers": ["kolo"]
+    },
+    {
+        "question": "calciatore",
+        "options": ["fotbalista", "hudební skladatel", "zpěvák/zpěvačka", "básník"],
+        "answers": ["fotbalista"]
+    },
+    {
+        "question": "cantante",
+        "options": ["zpěvák/zpěvačka", "herec/herečka", "tatínek", "fotbalista"],
+        "answers": ["zpěvák/zpěvačka"]
+    },
+    {
+        "question": "capisce",
+        "options": ["rozumí", "rozumíš", "město", "kaučuk"],
+        "answers": ["rozumí"]
+    },
+    {
+        "question": "capisci",
+        "options": ["rozumíš", "rozumí", "tatínek", "město"],
+        "answers": ["rozumíš"]
+    },
+    {
+        "question": "caucciù",
+        "options": ["kaučuk", "zlato", "čokoláda", "lyžař"],
+        "answers": ["kaučuk"]
+    },
+    {
+        "question": "chirurgo",
+        "options": ["chirurg", "politika", "fakulta", "město"],
+        "answers": ["chirurg"]
+    },
+    {
+        "question": "ciao",
+        "options": ["ahoj", "čokoláda", "město", "fakulta"],
+        "answers": ["ahoj"]
+    },
+    {
+        "question": "cioccolato",
+        "options": ["čokoláda (nápoj)", "lyžař", "zpěvák/zpěvačka", "zlato"],
+        "answers": ["čokoláda (nápoj)"]
+    },
+    {
+        "question": "città",
+        "options": ["město", "tatínek", "kravata", "umělec"],
+        "answers": ["město"]
+    },
+    {
+        "question": "come",
+        "options": ["jak", "kaučuk", "fotbalista", "zpěvák/zpěvačka"],
+        "answers": ["jak"]
+    },
+    {
+        "question": "compositore",
+        "options": ["hudební skladatel", "básník", "lyžař", "fakulta"],
+        "answers": ["hudební skladatel"]
+    },
+    {
+        "question": "costruttore",
+        "options": ["konstruktér automobilů", "chirurg", "tatínek", "město"],
+        "answers": ["konstruktér automobilů"]
+    },
+    {
+        "question": "cravatta",
+        "options": ["kravata", "fakulta", "zpěvák/zpěvačka", "čokoláda"],
+        "answers": ["kravata"]
+    },
+    {
+        "question": "facoltà",
+        "options": ["fakulta", "město", "umělec", "fotbalista"],
+        "answers": ["fakulta"]
+    },
+    {
+        "question": "genio",
+        "options": ["génius", "lyžař", "fotbalista", "zpěvák/zpěvačka"],
+        "answers": ["génius"]
+    },
+    {
+        "question": "giornalista",
+        "options": ["novinář", "zpěvák/zpěvačka", "básník", "fakulta"],
+        "answers": ["novinář"]
+    },
+    {
+        "question": "gnocchi",
+        "options": ["noky", "lyžař", "fakulta", "čokoláda"],
+        "answers": ["noky"]
+    },
+    {
+        "question": "gondola",
+        "options": ["gondola", "město", "lyžař", "kravata"],
+        "answers": ["gondola"]
+    },
+    {
+        "question": "gusto",
+        "options": ["chuť, vkus", "zpěvák/zpěvačka", "město", "lyžař"],
+        "answers": ["chuť, vkus"]
+    },
+    {
+        "question": "mamma",
+        "options": ["maminka", "tatínek", "zpěvák/zpěvačka", "básník"],
+        "answers": ["maminka"]
+    },
+    {
+        "question": "Mediterraneo",
+        "options": ["Středozemní moře", "fakulta", "město", "umělec"],
+        "answers": ["Středozemní moře"]
+    },
+    {
+        "question": "motocicletta",
+        "options": ["motorka", "kolo", "město", "tatínek"],
+        "answers": ["motorka"]
+    },
+    {
+        "question": "oro",
+        "options": ["zlato", "kaučuk", "čokoláda", "město"],
+        "answers": ["zlato"]
+    },
+    {
+        "question": "personaggio",
+        "options": ["pohádková postava", "zpěvák/zpěvačka", "město", "kravata"],
+        "answers": ["pohádková postava"]
+    },
+    {
+        "question": "pizza",
+        "options": ["pizza", "čokoláda", "tatínek", "umělec"],
+        "answers": ["pizza"]
+    },
+    {
+        "question": "poeta",
+        "options": ["básník", "novinář", "zpěvák/zpěvačka", "lyžař"],
+        "answers": ["básník"]
+    },
+    {
+        "question": "politico",
+        "options": ["politik", "novinář", "umělec", "město"],
+        "answers": ["politik"]
+    },
+    {
+        "question": "questo",
+        "options": ["tento, toto", "ahoj", "lyžař", "zpěvák/zpěvačka"],
+        "answers": ["tento, toto"]
+    },
+    {
+        "question": "regista",
+        "options": ["režisér", "zpěvák/zpěvačka", "město", "tatínek"],
+        "answers": ["režisér"]
+    },
+    {
+        "question": "rivoluzionario",
+        "options": ["revolucionář", "zpěvák/zpěvačka", "básník", "umělec"],
+        "answers": ["revolucionář"]
+    },
+    {
+        "question": "sciatore",
+        "options": ["lyžař", "fotbalista", "básník", "zpěvák/zpěvačka"],
+        "answers": ["lyžař"]
+    },
+    {
+        "question": "scrittore/scrittrice",
+        "options": ["spisovatel/spisovatelka", "zpěvák/zpěvačka", "novinář", "fakulta"],
+        "answers": ["spisovatel/spisovatelka"]
+    },
+    {
+        "question": "scusi!",
+        "options": ["promiňte!", "ahoj", "tento, toto", "zpěvák/zpěvačka"],
+        "answers": ["promiňte!"]
+    },
+    {
+        "question": "signore/signora",
+        "options": ["pán/paní", "tatínek", "novinář", "fotbalista"],
+        "answers": ["pán/paní"]
+    },
+    {
+        "question": "slovacco",
+        "options": ["slovenský", "zpěvák/zpěvačka", "město", "lyžař"],
+        "answers": ["slovenský"]
+    },
+    {
+        "question": "spaghetti",
+        "options": ["špagety", "noky", "čokoláda", "básník"],
+        "answers": ["špagety"]
+    },
+    {
+        "question": "telefonano",
+        "options": ["telefonují", "rozumíš", "zpěvák/zpěvačka", "město"],
+        "answers": ["telefonují"]
+    },
+    {
+        "question": "università",
+        "options": ["univerzita", "fakulta", "město", "zpěvák/zpěvačka"],
+        "answers": ["univerzita"]
+    },
+    {
+        "question": "vino",
+        "options": ["víno", "čokoláda", "zpěvák/zpěvačka", "lyžař"],
+        "answers": ["víno"]
+    },
+    {
+        "question": "zero",
+        "options": ["nula", "fakulta", "tatínek", "zpěvák/zpěvačka"],
+        "answers": ["nula"]
+    },
+    {
+        "question": "capitale",
+        "options": ["hlavní město", "region", "mapa", "země"],
+        "answers": ["hlavní město"]
+    },
+    {
+        "question": "carta geografica",
+        "options": ["mapa", "moře", "hora", "obec"],
+        "answers": ["mapa"]
+    },
+    {
+        "question": "fiume",
+        "options": ["řeka", "země", "hlavní město regionu", "moře"],
+        "answers": ["řeka"]
+    },
+    {
+        "question": "Italia",
+        "options": ["Itálie", "hlavní město regionu", "region", "hora"],
+        "answers": ["Itálie"]
+    },
+    {
+        "question": "mare",
+        "options": ["moře", "hora", "mapa", "každý"],
+        "answers": ["moře"]
+    },
+    {
+        "question": "montagna",
+        "options": ["hora", "řeka", "hlavní město", "moře"],
+        "answers": ["hora"]
+    },
+    {
+        "question": "paese",
+        "options": ["země", "region", "moře", "hora"],
+        "answers": ["země"]
+    },
+    {
+        "question": "regione",
+        "options": ["region", "hora", "řeka", "hlavní město"],
+        "answers": ["region"]
+    },
+    {
+        "question": "stato",
+        "options": ["stát", "hlavní město regionu", "země", "hora"],
+        "answers": ["stát"]
+    },
+    {
+        "question": "capoluogo",
+        "options": ["hlavní město regionu", "region", "moře", "stát"],
+        "answers": ["hlavní město regionu"]
+    },
+    {
+        "question": "ha",
+        "options": ["má", "každý", "moře", "země"],
+        "answers": ["má"]
+    },
+    {
+        "question": "ogni",
+        "options": ["každý", "region", "hlavní město regionu", "hora"],
+        "answers": ["každý"]
+    },
+    {
+        "question": "Lei",
+        "options": ["Vy", "ona", "oni", "ano"],
+        "answers": ["Vy"]
+    },
+    {
+        "question": "lei",
+        "options": ["ona", "Vy", "ty", "slečna"],
+        "answers": ["ona"]
+    },
+    {
+        "question": "lingua",
+        "options": ["jazyk", "škola", "slovíčka", "restaurace"],
+        "answers": ["jazyk"]
+    },
+    {
+        "question": "loro",
+        "options": ["oni", "všichni", "všechno", "Vy"],
+        "answers": ["oni"]
+    },
+    {
+        "question": "ma",
+        "options": ["ale", "protože", "ne", "ano"],
+        "answers": ["ale"]
+    },
+    {
+        "question": "mi chiamo",
+        "options": ["jmenuji se", "jmenuješ se", "jsi", "jsem"],
+        "answers": ["jmenuji se"]
+    },
+    {
+        "question": "molto",
+        "options": ["velmi, mnoho", "trochu", "nic", "vše"],
+        "answers": ["velmi, mnoho"]
+    },
+    {
+        "question": "no",
+        "options": ["ne", "ano", "protože", "prosím"],
+        "answers": ["ne"]
+    },
+    {
+        "question": "noi",
+        "options": ["my", "oni", "ty", "ona"],
+        "answers": ["my"]
+    },
+    {
+        "question": "per esempio",
+        "options": ["například", "protože", "prosím", "ale"],
+        "answers": ["například"]
+    },
+    {
+        "question": "perché",
+        "options": ["proč; protože", "protože", "proč", "prosím"],
+        "answers": ["proč; protože"]
+    },
+    {
+        "question": "piacere",
+        "options": ["těší mne", "prosím", "děkuji", "ahoj"],
+        "answers": ["těší mne"]
+    },
+    {
+        "question": "prego",
+        "options": ["prosím", "děkuji", "například", "ahoj"],
+        "answers": ["prosím"]
+    },
+    {
+        "question": "professore/professoressa",
+        "options": ["profesor/profesorka", "student/studentka", "slečna", "pan/paní"],
+        "answers": ["profesor/profesorka"]
+    },
+    {
+        "question": "radio",
+        "options": ["rozhlas", "škola", "všichni", "jazyk"],
+        "answers": ["rozhlas"]
+    },
+    {
+        "question": "ragazzo/ragazza",
+        "options": ["chlapec/dívka", "slečna", "student", "pan/paní"],
+        "answers": ["chlapec/dívka"]
+    },
+    {
+        "question": "ristorante",
+        "options": ["restaurace", "škola", "slovíčka", "pan/paní"],
+        "answers": ["restaurace"]
+    },
+    {
+        "question": "russo/a",
+        "options": ["ruský/á", "německý/á", "španělský/á", "všichni"],
+        "answers": ["ruský/á"]
+    },
+    {
+        "question": "salve",
+        "options": ["dobrý den; ahoj", "dobrý večer", "dobré ráno", "ahoj"],
+        "answers": ["dobrý den; ahoj"]
+    },
+    {
+        "question": "scuola",
+        "options": ["škola", "jazyk", "slovíčka", "restaurace"],
+        "answers": ["škola"]
+    },
+    {
+        "question": "sei",
+        "options": ["jsi", "jmenuješ se", "jsem", "ano"],
+        "answers": ["jsi"]
+    },
+    {
+        "question": "sì",
+        "options": ["ano", "ne", "prosím", "protože"],
+        "answers": ["ano"]
+    },
+    {
+        "question": "signorina",
+        "options": ["slečna", "pan/paní", "chlapec", "dívka"],
+        "answers": ["slečna"]
+    },
+    {
+        "question": "sono",
+        "options": ["jsem", "jsi", "jmenuji se", "jmenuješ se"],
+        "answers": ["jsem"]
+    },
+    {
+        "question": "spagnolo/a",
+        "options": ["španělský/á", "německý/á", "ruský/á", "jazyk"],
+        "answers": ["španělský/á"]
+    },
+    {
+        "question": "studente/studentessa",
+        "options": ["student/studentka", "slečna", "pan/paní", "chlapec/dívka"],
+        "answers": ["student/studentka"]
+    },
+    {
+        "question": "tedesco/a",
+        "options": ["německý/á", "ruský/á", "španělský/á", "slovíčka"],
+        "answers": ["německý/á"]
+    },
+    {
+        "question": "ti chiami",
+        "options": ["jmenuješ se", "jmenuji se", "jsi", "jsem"],
+        "answers": ["jmenuješ se"]
+    },
+    {
+        "question": "tu",
+        "options": ["ty", "ona", "my", "oni"],
+        "answers": ["ty"]
+    },
+    {
+        "question": "tutte",
+        "options": ["všechny", "všichni", "my", "oni"],
+        "answers": ["všechny"]
+    },
+    {
+        "question": "tutti",
+        "options": ["všichni", "všechny", "my", "oni"],
+        "answers": ["všichni"]
+    },
+    {
+        "question": "vocaboli",
+        "options": ["slovíčka", "jazyk", "škola", "vše"],
+        "answers": ["slovíčka"]
+    },
+    {
+        "question": "voi",
+        "options": ["vy", "oni", "my", "ona"],
+        "answers": ["vy"]
+    },
+    {
+        "question": "vostro, vostra",
+        "options": ["váš, vaše", "my", "oni", "ona"],
+        "answers": ["váš, vaše"]
+    },
+    {
+        "question": "buongiorno",
+        "options": ["dobrý den", "dobré ráno", "dobrý večer", "ahoj"],
+        "answers": ["dobrý den"]
+    },
+    {
+        "question": "buono/a",
+        "options": ["dobrý/á", "zajímavý/á", "velký/á", "špatný/á"],
+        "answers": ["dobrý/á"]
+    },
+    {
+        "question": "capitale",
+        "options": ["hlavní město", "stát", "region", "město"],
+        "answers": ["hlavní město"]
+    },
+    {
+        "question": "ceco/a",
+        "options": ["český/á", "italský/á", "anglický/á", "německý/á"],
+        "answers": ["český/á"]
+    },
+    {
+        "question": "classe",
+        "options": ["třída", "škola", "učitel", "učebna"],
+        "answers": ["třída"]
+    },
+    {
+        "question": "come",
+        "options": ["jak; jaký/á", "kde", "proč", "kdy"],
+        "answers": ["jak; jaký/á"]
+    },
+    {
+        "question": "di",
+        "options": ["z; od; 2. pád", "v; na", "kde", "protože"],
+        "answers": ["z; od; 2. pád"]
+    },
+    {
+        "question": "di dove",
+        "options": ["odkud", "z", "v; na", "protože"],
+        "answers": ["odkud"]
+    },
+    {
+        "question": "dottore",
+        "options": ["doktor", "učitel", "student", "inženýr"],
+        "answers": ["doktor"]
+    },
+    {
+        "question": "dove",
+        "options": ["kde; kam", "jak", "proč", "z"],
+        "answers": ["kde; kam"]
+    },
+    {
+        "question": "esempio",
+        "options": ["příklad", "cvičení", "úkol", "gramatika"],
+        "answers": ["příklad"]
+    },
+    {
+        "question": "esercizi",
+        "options": ["cvičení (pl)", "příklad", "gramatika", "škola"],
+        "answers": ["cvičení (pl)"]
+    },
+    {
+        "question": "essere",
+        "options": ["být", "mít", "dělat", "vědět"],
+        "answers": ["být"]
+    },
+    {
+        "question": "francese",
+        "options": ["francouzský/á", "italský/á", "anglický/á", "český/á"],
+        "answers": ["francouzský/á"]
+    },
+    {
+        "question": "giorno",
+        "options": ["den", "noc", "ráno", "večer"],
+        "answers": ["den"]
+    },
+    {
+        "question": "grammatica",
+        "options": ["mluvnice, gramatika", "cvičení", "škola", "učitel"],
+        "answers": ["mluvnice, gramatika"]
+    },
+    {
+        "question": "grande",
+        "options": ["velký/á", "malý/á", "zajímavý/á", "dobrý/á"],
+        "answers": ["velký/á"]
+    },
+    {
+        "question": "grazie",
+        "options": ["děkuji", "prosím", "ahoj", "například"],
+        "answers": ["děkuji"]
+    },
+    {
+        "question": "in",
+        "options": ["v; na; do", "z; od", "kde", "protože"],
+        "answers": ["v; na; do"]
+    },
+    {
+        "question": "ingegnere",
+        "options": ["inženýr", "doktor", "učitel", "student"],
+        "answers": ["inženýr"]
+    },
+    {
+        "question": "inglese",
+        "options": ["anglický/á", "italský/á", "francouzský/á", "český/á"],
+        "answers": ["anglický/á"]
+    },
+    {
+        "question": "insegnante",
+        "options": ["učitel/ka", "doktor", "inženýr", "student"],
+        "answers": ["učitel/ka"]
+    },
+    {
+        "question": "interessante",
+        "options": ["zajímavý/á", "dobrý/á", "velký/á", "malý/á"],
+        "answers": ["zajímavý/á"]
+    },
+    {
+        "question": "io",
+        "options": ["já", "my", "ty", "ona"],
+        "answers": ["já"]
+    },
+    {
+        "question": "italiano/a",
+        "options": ["italský/á", "anglický/á", "francouzský/á", "český/á"],
+        "answers": ["italský/á"]
+    },
+    {
+        "question": "c’è",
+        "options": ["(tam) je", "(tam) jsou", "kde", "moře"],
+        "answers": ["(tam) je"]
+    },
+    {
+        "question": "ci sono",
+        "options": ["(tam) jsou", "(tam) je", "kde", "jezero"],
+        "answers": ["(tam) jsou"]
+    },
+    {
+        "question": "fiume",
+        "options": ["řeka", "jezero", "moře", "stát"],
+        "answers": ["řeka"]
+    },
+    {
+        "question": "lago",
+        "options": ["jezero", "řeka", "moře", "stát"],
+        "answers": ["jezero"]
+    },
+    {
+        "question": "mare",
+        "options": ["moře", "jezero", "řeka", "kde"],
+        "answers": ["moře"]
+    },
+    {
+        "question": "alltretanto",
+        "options": ["nápodobně", "taky", "proč", "vůbec"],
+        "answers": ["nápodobně"]
+    },
+    {
+        "question": "albergo",
+        "options": ["hora", "hotel", "město", "klec"],
+        "answers": ["hotel"]
+    },
+    {
+        "question": "amico/amica",
+        "options": ["přítel/přítelkyně", "bratr", "učitel/ka", "kocour"],
+        "answers": ["přítel/přítelkyně"]
+    },
+    {
+        "question": "andare",
+        "options": ["jít; jet", "mluvit", "být", "mít"],
+        "answers": ["jít; jet"]
+    },
+    {
+        "question": "anno",
+        "options": ["rok", "den", "měsíc", "čas"],
+        "answers": ["rok"]
+    },
+    {
+        "question": "appetito",
+        "options": ["chuť", "hlad", "žízeň", "zima"],
+        "answers": ["chuť"]
+    },
+    {
+        "question": "appuntamento",
+        "options": ["setkání; schůzka", "lekce", "výlet", "zpoždění"],
+        "answers": ["setkání; schůzka"]
+    },
+    {
+        "question": "arancia",
+        "options": ["pomeranč", "oliva", "ovoce", "šťáva"],
+        "answers": ["pomeranč"]
+    },
+    {
+        "question": "avere",
+        "options": ["mít", "být", "jít", "mluvit"],
+        "answers": ["mít"]
+    },
+    {
+        "question": "avere caldo",
+        "options": ["cítit teplo", "mít hlad", "mít žízeň", "cítit zimu"],
+        "answers": ["cítit teplo"]
+    },
+    {
+        "question": "avere fame",
+        "options": ["mít hlad", "mít žízeň", "cítit zimu", "být ospalý"],
+        "answers": ["mít hlad"]
+    },
+    {
+        "question": "avere freddo",
+        "options": ["cítit zimu", "mít žízeň", "mít hlad", "cítit teplo"],
+        "answers": ["cítit zimu"]
+    },
+    {
+        "question": "avere fretta",
+        "options": ["spěchat", "cítit zimu", "mít hlad", "být ospalý"],
+        "answers": ["spěchat"]
+    },
+    {
+        "question": "avere sete",
+        "options": ["mít žízeň", "mít hlad", "cítit zimu", "cítit teplo"],
+        "answers": ["mít žízeň"]
+    },
+    {
+        "question": "avere sonno",
+        "options": ["být ospalý", "mít hlad", "mít žízeň", "spěchat"],
+        "answers": ["být ospalý"]
+    },
+    {
+        "question": "azzurro/a",
+        "options": ["světlemodrý/á", "zelený/á", "bílý/á", "černý/á"],
+        "answers": ["světlemodrý/á"]
+    },
+    {
+        "question": "bambino/bambina",
+        "options": ["chlapeček/holčička", "přítel/přítelkyně", "bratr", "učitel/ka"],
+        "answers": ["chlapeček/holčička"]
+    },
+    {
+        "question": "bar",
+        "options": ["kavárna", "dům", "škola", "restaurace"],
+        "answers": ["kavárna"]
+    },
+    {
+        "question": "barba",
+        "options": ["plnovous", "vlas", "oko", "kůže"],
+        "answers": ["plnovous"]
+    },
+    {
+        "question": "bene",
+        "options": ["dobře", "málo", "rychle", "špatně"],
+        "answers": ["dobře"]
+    },
+    {
+        "question": "bianco/a",
+        "options": ["bílý/á", "černý/á", "zelený/á", "modrý/á"],
+        "answers": ["bílý/á"]
+    },
+    {
+        "question": "biondo/a",
+        "options": ["světlovlasý/á", "tmavovlasý/á", "blond", "červenovlasý/á"],
+        "answers": ["světlovlasý/á"]
+    },
+    {
+        "question": "bravo/a",
+        "options": ["výborný/á", "špatný/á", "zajímavý/á", "obtížný/á"],
+        "answers": ["výborný/á"]
+    },
+    {
+        "question": "caffè",
+        "options": ["káva", "čaj", "víno", "voda"],
+        "answers": ["káva"]
+    },
+    {
+        "question": "caldo",
+        "options": ["teplo", "chlad", "zima", "horko"],
+        "answers": ["teplo"]
+    },
+    {
+        "question": "cameriere",
+        "options": ["číšník", "učitel", "student", "doktor"],
+        "answers": ["číšník"]
+    },
+    {
+        "question": "camicia",
+        "options": ["košile", "vesta", "bunda", "kalhoty"],
+        "answers": ["košile"]
+    },
+    {
+        "question": "capello",
+        "options": ["vlas", "oko", "ruka", "ucho"],
+        "answers": ["vlas"]
+    },
+    {
+        "question": "casa",
+        "options": ["dům", "kavárna", "škola", "restaurace"],
+        "answers": ["dům"]
+    },
+    {
+        "question": "conto",
+        "options": ["účet", "problém", "program", "čas"],
+        "answers": ["účet"]
+    },
+    {
+        "question": "con",
+        "options": ["s", "od", "z", "v"],
+        "answers": ["s"]
+    },
+    {
+        "question": "costare",
+        "options": ["stát (o ceně)", "být", "mít", "jít"],
+        "answers": ["stát (o ceně)"]
+    },
+    {
+        "question": "da",
+        "options": ["od (v čase)", "do", "v", "na"],
+        "answers": ["od (v čase)"]
+    },
+    {
+        "question": "da loro",
+        "options": ["k nim, u nich", "od nich", "s nimi", "u nás"],
+        "answers": ["k nim, u nich"]
+    },
+    {
+        "question": "da quanto tempo",
+        "options": ["jak dlouho", "proč", "kde", "kdy"],
+        "answers": ["jak dlouho"]
+    },
+    {
+        "question": "difficile",
+        "options": ["obtížný/á", "zajímavý/á", "velký/á", "dobrý/á"],
+        "answers": ["obtížný/á"]
+    },
+    {
+        "question": "domani",
+        "options": ["zítra", "dnes", "včera", "později"],
+        "answers": ["zítra"]
+    },
+    {
+        "question": "dopo",
+        "options": ["po; potom", "před", "během", "brzy"],
+        "answers": ["po; potom"]
+    },
+    {
+        "question": "due",
+        "options": ["dva/dvě", "jeden", "tři", "čtyři"],
+        "answers": ["dva/dvě"]
+    },
+    {
+        "question": "essere in anticipo",
+        "options": ["být v předstihu; přijít dříve", "být zpožděn", "mít problémy", "přijít pozdě"],
+        "answers": ["být v předstihu; přijít dříve"]
+    },
+    {
+        "question": "fame",
+        "options": ["hlad", "žízeň", "teplo", "zima"],
+        "answers": ["hlad"]
+    },
+    {
+        "question": "farmacia",
+        "options": ["lékárna", "restaurace", "škola", "kavárna"],
+        "answers": ["lékárna"]
+    },
+    {
+        "question": "fratello",
+        "options": ["bratr", "přítel", "učitel", "syn"],
+        "answers": ["bratr"]
+    },
+    {
+        "question": "freddo",
+        "options": ["chlad; zima", "teplo", "horko", "slunce"],
+        "answers": ["chlad; zima"]
+    },
+    {
+        "question": "fretta",
+        "options": ["spěch", "hlad", "zpoždění", "čas"],
+        "answers": ["spěch"]
+    },
+    {
+        "question": "formaggio",
+        "options": ["sýr", "mléko", "ovoce", "šťáva"],
+        "answers": ["sýr"]
+    },
+    {
+        "question": "frutta",
+        "options": ["ovoce", "zelenina", "šťáva", "sýr"],
+        "answers": ["ovoce"]
+    },
+    {
+        "question": "gatto",
+        "options": ["kocour", "pes", "kůň", "pták"],
+        "answers": ["kocour"]
+    },
+    {
+        "question": "gemello",
+        "options": ["dvojče", "sourozenec", "bratr", "sestra"],
+        "answers": ["dvojče"]
+    },
+    {
+        "question": "già",
+        "options": ["už, již", "ne", "ano", "snad"],
+        "answers": ["už, již"]
+    },
+    {
+        "question": "gita",
+        "options": ["výlet", "lekce", "zpoždění", "schůzka"],
+        "answers": ["výlet"]
+    },
+    {
+        "question": "granita",
+        "options": ["nápoj z ledové tříště", "šťáva", "soda", "voda"],
+        "answers": ["nápoj z ledové tříště"]
+    },
+    {
+        "question": "intelligente",
+        "options": ["inteligentní", "zajímavý", "velký", "malý"],
+        "answers": ["inteligentní"]
+    },
+    {
+        "question": "interessante",
+        "options": ["zajímavý/á", "inteligentní", "obtížný/á", "velký/á"],
+        "answers": ["zajímavý/á"]
+    },
+    {
+        "question": "lavoro",
+        "options": ["práce", "studium", "lekce", "zpoždění"],
+        "answers": ["práce"]
+    },
+    {
+        "question": "lezione",
+        "options": ["lekce, vyučování", "práce", "výlet", "studium"],
+        "answers": ["lekce, vyučování"]
+    },
+    {
+        "question": "lì",
+        "options": ["tam", "tady", "zde", "vždy"],
+        "answers": ["tam"]
+    },
+    {
+        "question": "libro",
+        "options": ["kniha", "sešit", "časopis", "učebnice"],
+        "answers": ["kniha"]
+    },
+    {
+        "question": "lontano",
+        "options": ["daleko; vzdálený", "blízko", "vždy", "brzy"],
+        "answers": ["daleko; vzdálený"]
+    },
+    {
+        "question": "loro",
+        "options": ["oni, ony", "my", "vy", "všichni"],
+        "answers": ["oni, ony"]
+    },
+    {
+        "question": "macchina",
+        "options": ["automobil", "vlak", "autobus", "motorka"],
+        "answers": ["automobil"]
+    },
+    {
+        "question": "mese",
+        "options": ["měsíc", "den", "rok", "minuta"],
+        "answers": ["měsíc"]
+    },
+    {
+        "question": "minerale",
+        "options": ["minerální", "inteligentní", "obtížný", "zajímavý"],
+        "answers": ["minerální"]
+    },
+    {
+        "question": "minuto",
+        "options": ["minuta", "vteřina", "hodina", "den"],
+        "answers": ["minuta"]
+    },
+    {
+        "question": "nero/a",
+        "options": ["černý/á", "bílý/á", "zelený/á", "modrý/á"],
+        "answers": ["černý/á"]
+    },
+    {
+        "question": "nostro/nostra",
+        "options": ["náš, naše", "váš, vaše", "můj, moje", "jejich"],
+        "answers": ["náš, naše"]
+    },
+    {
+        "question": "nuovo/a",
+        "options": ["nový/á", "starý/á", "mladý/á", "malý/á"],
+        "answers": ["nový/á"]
+    },
+    {
+        "question": "occhio",
+        "options": ["oko", "vlas", "ucho", "nos"],
+        "answers": ["oko"]
+    },
+    {
+        "question": "oliva",
+        "options": ["oliva", "ovoce", "zelenina", "šťáva"],
+        "answers": ["oliva"]
+    },
+    {
+        "question": "ora",
+        "options": ["hodina", "den", "minuta", "rok"],
+        "answers": ["hodina"]
+    },
+    {
+        "question": "parlare",
+        "options": ["mluvit", "být", "jít", "mít"],
+        "answers": ["mluvit"]
+    },
+    {
+        "question": "per favore",
+        "options": ["prosím", "děkuji", "ahoj", "zde"],
+        "answers": ["prosím"]
+    },
+    {
+        "question": "piccolo/a",
+        "options": ["malý/á", "velký/á", "mladý/á", "starý/á"],
+        "answers": ["malý/á"]
+    },
+    {
+        "question": "poco",
+        "options": ["málo", "hodně", "trochu", "všechno"],
+        "answers": ["málo"]
+    },
+    {
+        "question": "prendo",
+        "options": ["vezmu si; dám si", "přinesu", "odnesu", "vyměním"],
+        "answers": ["vezmu si; dám si"]
+    },
+    {
+        "question": "problema",
+        "options": ["problém", "program", "úkol", "zpoždění"],
+        "answers": ["problém"]
+    },
+    {
+        "question": "programma",
+        "options": ["program", "problém", "plán", "cvičení"],
+        "answers": ["program"]
+    },
+    {
+        "question": "quanto",
+        "options": ["kolik", "jak dlouho", "proč", "kde"],
+        "answers": ["kolik"]
+    },
+    {
+        "question": "quanto costa",
+        "options": ["kolik stojí", "jak dlouho", "proč", "kde"],
+        "answers": ["kolik stojí"]
+    },
+    {
+        "question": "qui",
+        "options": ["zde, tady", "tam", "vždy", "teď"],
+        "answers": ["zde, tady"]
+    },
+    {
+        "question": "repubblica",
+        "options": ["republika", "království", "stát", "region"],
+        "answers": ["republika"]
+    },
+    {
+        "question": "ritardo",
+        "options": ["zpoždění", "předstih", "výlet", "schůzka"],
+        "answers": ["zpoždění"]
+    },
+    {
+        "question": "scusa/scusate",
+        "options": ["promiň/promiňte", "děkuji", "prosím", "ahoj"],
+        "answers": ["promiň/promiňte"]
+    },
+    {
+        "question": "scusare",
+        "options": ["prominout", "odpustit", "dát", "vyměnit"],
+        "answers": ["prominout"]
+    },
+    {
+        "question": "sete",
+        "options": ["žízeň", "hlad", "ospalost", "zima"],
+        "answers": ["žízeň"]
+    },
+    {
+        "question": "settimana",
+        "options": ["týden", "den", "měsíc", "rok"],
+        "answers": ["týden"]
+    },
+    {
+        "question": "simpatico/a",
+        "options": ["sympatický/á", "inteligentní", "zajímavý/á", "pěkný/á"],
+        "answers": ["sympatický/á"]
+    },
+    {
+        "question": "sonno",
+        "options": ["spánek", "ospalost", "klid", "únava"],
+        "answers": ["spánek"]
+    },
+    {
+        "question": "spesso",
+        "options": ["často", "zřídka", "občas", "vždy"],
+        "answers": ["často"]
+    },
+    {
+        "question": "straniero",
+        "options": ["cizí", "nový", "starý", "neznámý"],
+        "answers": ["cizí"]
+    },
+    {
+        "question": "studio",
+        "options": ["studium", "práce", "lekce", "výuka"],
+        "answers": ["studium"]
+    },
+    {
+        "question": "subito",
+        "options": ["ihned", "později", "často", "hned teď"],
+        "answers": ["ihned"]
+    },
+    {
+        "question": "succo",
+        "options": ["šťáva; džus", "soda", "voda", "ovoce"],
+        "answers": ["šťáva; džus"]
+    },
+    {
+        "question": "tanto",
+        "options": ["tolik, hodně", "málo", "trochu", "všechno"],
+        "answers": ["tolik, hodně"]
+    },
+    {
+        "question": "tempo",
+        "options": ["čas", "hodina", "den", "rok"],
+        "answers": ["čas"]
+    },
+    {
+        "question": "tutto il mondo",
+        "options": ["celý svět; všichni", "každý", "všechno", "všechny"],
+        "answers": ["celý svět; všichni"]
+    },
+    {
+        "question": "un poco/un po’",
+        "options": ["trochu", "málo", "hodně", "všechno"],
+        "answers": ["trochu"]
+    },
+    {
+        "question": "valigia",
+        "options": ["zavazadlo, kufr", "taška", "batoh", "kapsa"],
+        "answers": ["zavazadlo, kufr"]
+    },
+    {
+        "question": "vecchio/a",
+        "options": ["starý/á", "mladý/á", "malý/á", "velký/á"],
+        "answers": ["starý/á"]
+    },
+    {
+        "question": "verde",
+        "options": ["zelený/á", "modrý/á", "žlutý/á", "červený/á"],
+        "answers": ["zelený/á"]
+    },
+    {
+        "question": "zio/zia",
+        "options": ["strýc/teta", "bratr/sestra", "děda/babička", "přítel/přítelkyně"],
+        "answers": ["strýc/teta"]
+    },
+    {
+        "question": "altro/a",
+        "options": ["jiný/á", "nový/á", "velký/á", "malý/á"],
+        "answers": ["jiný/á"]
+    },
+    {
+        "question": "dolce",
+        "options": ["sladkost", "ovoce", "sýr", "zelenina"],
+        "answers": ["sladkost"]
+    },
+    {
+        "question": "mattina",
+        "options": ["ráno", "večer", "noc", "den"],
+        "answers": ["ráno"]
+    },
+    {
+        "question": "per esempio",
+        "options": ["například", "proč", "kde", "jak dlouho"],
+        "answers": ["například"]
+    },
+    {
+        "question": "più",
+        "options": ["více", "méně", "tolik", "málo"],
+        "answers": ["více"]
+    },
+    {
+        "question": "pranzo",
+        "options": ["oběd", "snídaně", "večeře", "svačina"],
+        "answers": ["oběd"]
+    },
+    {
+        "question": "prendere",
+        "options": ["vzít; dát si", "přijít", "přinést", "vyměnit"],
+        "answers": ["vzít; dát si"]
+    },
+    {
+        "question": "prima di",
+        "options": ["před", "po", "během", "potom"],
+        "answers": ["před"]
+    },
+    {
+        "question": "quando",
+        "options": ["když", "kde", "proč", "jak dlouho"],
+        "answers": ["když"]
+    },
+    {
+        "question": "tipo",
+        "options": ["typ", "různý", "jiný", "velký"],
+        "answers": ["typ"]
+    },
+    {
+        "question": "vario/a",
+        "options": ["různý/á", "jednoduchý/á", "obtížný/á", "zajímavý/á"],
+        "answers": ["různý/á"]
+    },
+    {
+        "question": "verso",
+        "options": ["k; okol", "když", "během", "po"],
+        "answers": ["k; okol"]
+    },
+    {
+        "question": "abitare",
+        "options": ["bydlet", "pracovat", "stát", "prodávat"],
+        "answers": ["bydlet"]
+    },
+    {
+        "question": "accomodarsi",
+        "options": ["udělat si pohodlí; posadit se", "tančit", "studovat", "prodávat"],
+        "answers": ["udělat si pohodlí; posadit se"]
+    },
+    {
+        "question": "allora",
+        "options": ["tedy; tak", "protože", "když", "ale"],
+        "answers": ["tedy; tak"]
+    },
+    {
+        "question": "amare",
+        "options": ["mít rád; milovat", "prodávat", "odpočívat", "běžet"],
+        "answers": ["mít rád; milovat"]
+    },
+    {
+        "question": "appartamento",
+        "options": ["byt", "kancelář", "obchod", "škola"],
+        "answers": ["byt"]
+    },
+    {
+        "question": "arancione",
+        "options": ["oranžový/á", "žlutý/á", "červený/á", "modrý/á"],
+        "answers": ["oranžový/á"]
+    },
+    {
+        "question": "ascoltare",
+        "options": ["poslouchat", "mluvit", "vidět", "tančit"],
+        "answers": ["poslouchat"]
+    },
+    {
+        "question": "assistere (a qc)",
+        "options": ["být přítomen; účastnit se", "odpočívat", "tančit", "řídit"],
+        "answers": ["být přítomen; účastnit se"]
+    },
+    {
+        "question": "auguri!",
+        "options": ["všechno nejlepší; gratuluji", "dobrý večer", "prosím", "děkuji"],
+        "answers": ["všechno nejlepší; gratuluji"]
+    },
+    {
+        "question": "Austria",
+        "options": ["Rakousko", "Německo", "Španělsko", "Spojené státy"],
+        "answers": ["Rakousko"]
+    },
+    {
+        "question": "autobus",
+        "options": ["autobus", "vlak", "motorka", "auto"],
+        "answers": ["autobus"]
+    },
+    {
+        "question": "ballare",
+        "options": ["tančit", "zpívat", "psát", "řídit"],
+        "answers": ["tančit"]
+    },
+    {
+        "question": "bel, bello, bella",
+        "options": ["krásný/á", "nový/á", "starý/á", "malý/á"],
+        "answers": ["krásný/á"]
+    },
+    {
+        "question": "bicchiere",
+        "options": ["sklenice", "talíř", "pohár", "hrnek"],
+        "answers": ["sklenice"]
+    },
+    {
+        "question": "birra",
+        "options": ["pivo", "víno", "voda", "šťáva"],
+        "answers": ["pivo"]
+    },
+    {
+        "question": "blu",
+        "options": ["modrý/á", "červený/á", "zelený/á", "žlutý/á"],
+        "answers": ["modrý/á"]
+    },
+    {
+        "question": "buonasera",
+        "options": ["dobrý večer", "dobrý den", "dobré ráno", "ahoj"],
+        "answers": ["dobrý večer"]
+    },
+    {
+        "question": "buono/a",
+        "options": ["dobrý/á", "velký/á", "malý/á", "špatný/á"],
+        "answers": ["dobrý/á"]
+    },
+    {
+        "question": "cadere",
+        "options": ["padat; upadnout", "běžet", "zpívat", "mluvit"],
+        "answers": ["padat; upadnout"]
+    },
+    {
+        "question": "cantare",
+        "options": ["zpívat", "tančit", "hrát", "psát"],
+        "answers": ["zpívat"]
+    },
+    {
+        "question": "canzone",
+        "options": ["píseň", "báseň", "hra", "film"],
+        "answers": ["píseň"]
+    },
+    {
+        "question": "casa dello studente",
+        "options": ["studentská kolej", "škola", "kavárna", "knihovna"],
+        "answers": ["studentská kolej"]
+    },
+    {
+        "question": "castano/a",
+        "options": ["kaštanový/á", "červený/á", "oranžový/á", "žlutý/á"],
+        "answers": ["kaštanový/á"]
+    },
+    {
+        "question": "centro",
+        "options": ["centrum, střed", "město", "vesnice", "kraj"],
+        "answers": ["centrum, střed"]
+    },
+    {
+        "question": "che cosa",
+        "options": ["co", "kde", "proč", "kdy"],
+        "answers": ["co"]
+    },
+    {
+        "question": "chiamarsi",
+        "options": ["jmenovat se", "ptát se", "mluvit", "zpívat"],
+        "answers": ["jmenovat se"]
+    },
+    {
+        "question": "chiave",
+        "options": ["klíč", "kniha", "pero", "okno"],
+        "answers": ["klíč"]
+    },
+    {
+        "question": "chiedere",
+        "options": ["ptát se; žádat", "řídit", "mluvit", "odpočívat"],
+        "answers": ["ptát se; žádat"]
+    },
+    {
+        "question": "cinema",
+        "options": ["kino", "divadlo", "restaurace", "kavárna"],
+        "answers": ["kino"]
+    },
+    {
+        "question": "classico/a",
+        "options": ["klasický/á", "moderní", "nový/á", "starý/á"],
+        "answers": ["klasický/á"]
+    },
+    {
+        "question": "colore",
+        "options": ["barva", "tvar", "velikost", "druh"],
+        "answers": ["barva"]
+    },
+    {
+        "question": "compleanno",
+        "options": ["narozeniny", "svátek", "oslava", "večírek"],
+        "answers": ["narozeniny"]
+    },
+    {
+        "question": "correre",
+        "options": ["běžet", "chodit", "tančit", "zpívat"],
+        "answers": ["běžet"]
+    },
+    {
+        "question": "cucina",
+        "options": ["kuchyně", "ložnice", "obývák", "jídelna"],
+        "answers": ["kuchyně"]
+    },
+    {
+        "question": "decidere (di)",
+        "options": ["rozhodnout se", "uvažovat", "řídit", "zvolit"],
+        "answers": ["rozhodnout se"]
+    },
+    {
+        "question": "dipendere (da)",
+        "options": ["záviset (na)", "spoléhat (na)", "čekat (na)", "přijít (k)"]
+    },
+    {
+        "question": "discutere",
+        "options": ["diskutovat; hovořit", "psát", "zpívat", "křičet"],
+        "answers": ["diskutovat; hovořit"]
+    },
+    {
+        "question": "economia",
+        "options": ["ekonomie", "politika", "historie", "geografie"],
+        "answers": ["ekonomie"]
+    },
+    {
+        "question": "festa",
+        "options": ["oslava; svátek", "večírek", "svatba", "návštěva"],
+        "answers": ["oslava; svátek"]
+    },
+    {
+        "question": "filosofia",
+        "options": ["filozofie", "ekonomie", "politika", "historie"],
+        "answers": ["filozofie"]
+    },
+    {
+        "question": "fiore",
+        "options": ["květina", "strom", "keř", "tráva"],
+        "answers": ["květina"]
+    },
+    {
+        "question": "gente",
+        "options": ["lidé", "zvířata", "věci", "místa"],
+        "answers": ["lidé"]
+    },
+    {
+        "question": "Germania",
+        "options": ["Německo", "Rakousko", "Itálie", "Španělsko"],
+        "answers": ["Německo"]
+    },
+    {
+        "question": "giallo/a",
+        "options": ["žlutý/á", "zelený/á", "modrý/á", "červený/á"],
+        "answers": ["žlutý/á"]
+    },
+    {
+        "question": "grigio/a",
+        "options": ["šedý/á", "černý/á", "bílý/á", "modrý/á"],
+        "answers": ["šedý/á"]
+    },
+    {
+        "question": "guardare (qc)",
+        "options": ["dívat se (na)", "psát", "mluvit", "zpívat"],
+        "answers": ["dívat se (na)"]
+    },
+    {
+        "question": "guidare",
+        "options": ["řídit", "běžet", "chodit", "zpívat"],
+        "answers": ["řídit"]
+    },
+    {
+        "question": "informazione",
+        "options": ["informace", "novinka", "fakta", "představa"],
+        "answers": ["informace"]
+    },
+    {
+        "question": "lavorare",
+        "options": ["pracovat", "učit se", "řídit", "běhat"],
+        "answers": ["pracovat"]
+    },
+    {
+        "question": "leggere",
+        "options": ["číst", "psát", "mluvit", "přemýšlet"],
+        "answers": ["číst"]
+    },
+    {
+        "question": "lettera",
+        "options": ["dopis", "zpráva", "slovo", "kniha"],
+        "answers": ["dopis"]
+    },
+    {
+        "question": "libero/a",
+        "options": ["volný/á", "zaneprázdněný/á", "svobodný/á", "otevřený/á"],
+        "answers": ["volný/á"]
+    },
+    {
+        "question": "mangiare",
+        "options": ["jíst", "pít", "vařit", "krájet"],
+        "answers": ["jíst"]
+    },
+    {
+        "question": "marrone",
+        "options": ["hnědý/á", "zelený/á", "modrý/á", "červený/á"],
+        "answers": ["hnědý/á"]
+    },
+    {
+        "question": "mattina",
+        "options": ["ráno", "večer", "noc", "odpoledne"],
+        "answers": ["ráno"]
+    },
+    {
+        "question": "mettere",
+        "options": ["položit; dát", "zvednout", "otevřít", "přesunout"],
+        "answers": ["položit; dát"]
+    },
+    {
+        "question": "mio/mia",
+        "options": ["můj/moje", "tvůj/tvoje", "jeho/její", "náš/naše"],
+        "answers": ["můj/moje"]
+    },
+    {
+        "question": "momento",
+        "options": ["moment; chvíle", "čas", "minuta", "den"],
+        "answers": ["moment; chvíle"]
+    },
+    {
+        "question": "negozio",
+        "options": ["obchod", "kancelář", "škola", "restaurace"],
+        "answers": ["obchod"]
+    },
+    {
+        "question": "non sta bene",
+        "options": ["není mu/jí dobře", "je mu/jí špatně", "má volno", "je zaneprázdněný/á"],
+        "answers": ["není mu/jí dobře"]
+    },
+    {
+        "question": "ogni",
+        "options": ["každý/každá", "některý/některá", "žádný/žádná", "všechno"],
+        "answers": ["každý/každá"]
+    },
+    {
+        "question": "per",
+        "options": ["pro", "od", "s", "do"],
+        "answers": ["pro"]
+    },
+    {
+        "question": "perdere",
+        "options": ["ztrácet", "dávat", "přijímat", "nacházet"],
+        "answers": ["ztrácet"]
+    },
+    {
+        "question": "permettere",
+        "options": ["dovolit", "zakázat", "poskytnout", "zabránit"],
+        "answers": ["dovolit"]
+    },
+    {
+        "question": "piacere",
+        "options": ["líbit se", "vadit", "trápit", "pohoršovat"],
+        "answers": ["líbit se"]
+    },
+    {
+        "question": "poesia",
+        "options": ["báseň", "píseň", "příběh", "scénář"],
+        "answers": ["báseň"]
+    },
+    {
+        "question": "politica",
+        "options": ["politika", "ekonomie", "historie", "geografie"],
+        "answers": ["politika"]
+    },
+    {
+        "question": "prendere",
+        "options": ["vzít, brát", "dát", "zvednout", "nechat"],
+        "answers": ["vzít, brát"]
+    },
+    {
+        "question": "presentare",
+        "options": ["představovat", "dávat", "nabízet", "přijímat"],
+        "answers": ["představovat"]
+    },
+    {
+        "question": "proprio",
+        "options": ["přímo; opravdu", "nepřímo", "nejasně", "možná"],
+        "answers": ["přímo; opravdu"]
+    },
+    {
+        "question": "quale",
+        "options": ["který/á; jaký/á", "kdo", "co", "proč"],
+        "answers": ["který/á; jaký/á"]
+    },
+    {
+        "question": "quello/quella",
+        "options": ["ten/ta", "tento/tato", "některý/některá", "každý/každá"],
+        "answers": ["ten/ta"]
+    },
+    {
+        "question": "riposare",
+        "options": ["odpočívat", "pracovat", "běhat", "tančit"],
+        "answers": ["odpočívat"]
+    },
+    {
+        "question": "rispondere",
+        "options": ["odpovídat", "zeptat se", "přijmout", "psát"],
+        "answers": ["odpovídat"]
+    },
+    {
+        "question": "rosa",
+        "options": ["růžový/á", "červený/á", "zelený/á", "žlutý/á"],
+        "answers": ["růžový/á"]
+    },
+    {
+        "question": "rosso/a",
+        "options": ["červený/á", "modrý/á", "bílý/á", "hnědý/á"],
+        "answers": ["červený/á"]
+    },
+    {
+        "question": "scrivere",
+        "options": ["psát", "číst", "řídit", "mluvit"],
+        "answers": ["psát"]
+    },
+    {
+        "question": "sera",
+        "options": ["večer", "ráno", "noc", "den"],
+        "answers": ["večer"]
+    },
+    {
+        "question": "soldi",
+        "options": ["peníze", "drahokamy", "šperky", "úspory"],
+        "answers": ["peníze"]
+    },
+    {
+        "question": "soprattutto",
+        "options": ["především", "většinou", "zřídka", "často"],
+        "answers": ["především"]
+    },
+    {
+        "question": "Spagna",
+        "options": ["Španělsko", "Itálie", "Francie", "Německo"],
+        "answers": ["Španělsko"]
+    },
+    {
+        "question": "spendere",
+        "options": ["utratit", "ušetřit", "půjčit", "prodat"],
+        "answers": ["utratit"]
+    },
+    {
+        "question": "spesso",
+        "options": ["často", "zřídka", "vždy", "někdy"],
+        "answers": ["často"]
+    },
+    {
+        "question": "Stati Uniti",
+        "options": ["Spojené státy", "Kanada", "Austrálie", "Mexiko"],
+        "answers": ["Spojené státy"]
+    },
+    {
+        "question": "stonato/a",
+        "options": ["falešný/á", "pravdivý/á", "krásný/á", "inteligentní"],
+        "answers": ["falešný/á"]
+    },
+    {
+        "question": "storia",
+        "options": ["historie, dějepis", "příběh", "politika", "literatura"],
+        "answers": ["historie, dějepis"]
+    },
+    {
+        "question": "straniero",
+        "options": ["cizinec", "domácí", "host", "soused"],
+        "answers": ["cizinec"]
+    },
+    {
+        "question": "studiare",
+        "options": ["studovat", "učit se", "psát", "číst"],
+        "answers": ["studovat"]
+    },
+    {
+        "question": "su",
+        "options": ["na", "pod", "vedle", "před"],
+        "answers": ["na"]
+    },
+    {
+        "question": "suonare",
+        "options": ["hrát na hudební nástroj; znít", "zpívat", "tančit", "poslouchat"],
+        "answers": ["hrát na hudební nástroj; znít"]
+    },
+    {
+        "question": "telefonare",
+        "options": ["telefonovat", "psát", "mluvit", "posílat"],
+        "answers": ["telefonovat"]
+    },
+    {
+        "question": "telefono",
+        "options": ["telefon", "počítač", "tablet", "televize"],
+        "answers": ["telefon"]
+    },
+    {
+        "question": "televisione",
+        "options": ["televize", "počítač", "radio", "noviny"],
+        "answers": ["televize"]
+    },
+    {
+        "question": "tornare",
+        "options": ["vracet se", "přijít", "utíkat", "stěhovat se"],
+        "answers": ["vracet se"]
+    },
+    {
+        "question": "tulipano",
+        "options": ["tulipán", "růže", "slunečnice", "kopretina"],
+        "answers": ["tulipán"]
+    },
+    {
+        "question": "ufficio",
+        "options": ["kancelář", "obchod", "škola", "restaurace"],
+        "answers": ["kancelář"]
+    },
+    {
+        "question": "vedere",
+        "options": ["vidět", "mluvit", "slyšet", "představit si"],
+        "answers": ["vidět"]
+    },
+    {
+        "question": "vendere",
+        "options": ["prodávat", "kupovat", "vyměňovat", "nabízet"],
+        "answers": ["prodávat"]
+    },
+    {
+        "question": "alcolico",
+        "options": ["alkoholický nápoj", "nealkoholický nápoj", "šťáva", "voda"],
+        "answers": ["alkoholický nápoj"]
+    },
+    {
+        "question": "alcolico/a",
+        "options": ["alkoholický/á", "nealkoholický/á", "chutný/á", "dražší"],
+        "answers": ["alkoholický/á"]
+    },
+    {
+        "question": "aperitivo",
+        "options": ["aperitiv", "předkrm", "hlavní chod", "dezert"],
+        "answers": ["aperitiv"]
+    },
+    {
+        "question": "bancone",
+        "options": ["pult", "stůl", "židle", "police"],
+        "answers": ["pult"]
+    },
+    {
+        "question": "barista",
+        "options": ["barman", "číšník", "host", "manažer"],
+        "answers": ["barman"]
+    },
+    {
+        "question": "bevanda",
+        "options": ["nápoj", "pokrm", "sladkost", "jídlo"],
+        "answers": ["nápoj"]
+    },
+    {
+        "question": "bevono",
+        "options": ["pijí (pít)", "jedí (jíst)", "spí (spát)", "mluví (mluvit)"],
+        "answers": ["pijí (pít)"]
+    },
+    {
+        "question": "bottiglia",
+        "options": ["láhev", "sklenice", "pohár", "hrnek"],
+        "answers": ["láhev"]
+    },
+    {
+        "question": "caro/a",
+        "options": ["drahý/á", "levný/á", "velký/á", "malý/á"],
+        "answers": ["drahý/á"]
+    },
+    {
+        "question": "cassa",
+        "options": ["pokladna", "stůl", "židle", "police"],
+        "answers": ["pokladna"]
+    },
+    {
+        "question": "cena",
+        "options": ["večeře", "snídaně", "oběd", "svačina"],
+        "answers": ["večeře"]
+    },
+    {
+        "question": "chiacchierare",
+        "options": ["povídat si", "tančit", "zpívat", "pracovat"],
+        "answers": ["povídat si"]
+    },
+    {
+        "question": "dolce",
+        "options": ["sladkost; cukrovinka", "nápoj", "jídlo", "ovoce"],
+        "answers": ["sladkost; cukrovinka"]
+    },
+    {
+        "question": "durante",
+        "options": ["během", "před", "po", "zatímco"],
+        "answers": ["během"]
+    },
+    {
+        "question": "durare",
+        "options": ["trvat", "skončit", "začít", "přerušit"],
+        "answers": ["trvat"]
+    },
+    {
+        "question": "fare amicizia",
+        "options": ["spřátelit se", "hovořit", "učit se", "pracovat"],
+        "answers": ["spřátelit se"]
+    },
+    {
+        "question": "invitatelo",
+        "options": ["pozvěte ho", "pošlete ho", "přijměte ho", "vyměňte ho"],
+        "answers": ["pozvěte ho"]
+    },
+    {
+        "question": "lasciare",
+        "options": ["nechat", "odnést", "zvednout", "vrátit"],
+        "answers": ["nechat"]
+    },
+    {
+        "question": "mancia",
+        "options": ["spropitné", "účet", "peníze", "poznámka"],
+        "answers": ["spropitné"]
+    },
+    {
+        "question": "mentre",
+        "options": ["zatímco", "během", "poté", "před"],
+        "answers": ["zatímco"]
+    },
+    {
+        "question": "mezzogiorno",
+        "options": ["poledne", "ráno", "večer", "noc"],
+        "answers": ["poledne"]
+    },
+    {
+        "question": "niente",
+        "options": ["nic", "všechno", "málo", "hodně"],
+        "answers": ["nic"]
+    },
+    {
+        "question": "o",
+        "options": ["nebo", "a", "ale", "protože"],
+        "answers": ["nebo"]
+    },
+    {
+        "question": "padrona di casa",
+        "options": ["paní domu", "host", "přítel", "soused"],
+        "answers": ["paní domu"]
+    },
+    {
+        "question": "padrone di casa",
+        "options": ["pán domu", "hostitel", "přítel", "soused"],
+        "answers": ["pán domu"]
+    },
+    {
+        "question": "pagare",
+        "options": ["platit", "přijímat", "dávat", "šetřit"],
+        "answers": ["platit"]
+    },
+    {
+        "question": "portare",
+        "options": ["přinést", "vzít", "odnést", "ukázat"],
+        "answers": ["přinést"]
+    },
+    {
+        "question": "pranzo",
+        "options": ["oběd", "snídaně", "večeře", "svačina"],
+        "answers": ["oběd"]
+    },
+    {
+        "question": "pronto/a",
+        "options": ["připraven/a", "spokojen/a", "zaměstnaný/á", "volný/á"],
+        "answers": ["připraven/a"]
+    },
+    {
+        "question": "può",
+        "options": ["může (moci)", "dělá (dělat)", "říká (říkat)", "píše (psát)"],
+        "answers": ["může (moci)"]
+    },
+    {
+        "question": "quando",
+        "options": ["když; kdy", "zatímco", "během", "před"],
+        "answers": ["když; kdy"]
+    },
+    {
+        "question": "quasi",
+        "options": ["téměř, skoro", "vždy", "zřídka", "často"],
+        "answers": ["téměř, skoro"]
+    },
+    {
+        "question": "regolarmente",
+        "options": ["pravidelně", "zřídka", "často", "obvykle"],
+        "answers": ["pravidelně"]
+    },
+    {
+        "question": "ritrovarsi",
+        "options": ["scházet se", "potkávat", "nacházet", "pozvávat"],
+        "answers": ["scházet se"]
+    },
+    {
+        "question": "sempre",
+        "options": ["vždy", "někdy", "často", "zřídka"],
+        "answers": ["vždy"]
+    },
+    {
+        "question": "socializzare",
+        "options": ["socializovat; družit se", "pracovat", "učit se", "odpočívat"],
+        "answers": ["socializovat; družit se"]
+    },
+    {
+        "question": "solitamente",
+        "options": ["obvykle", "zřídka", "vždy", "někdy"],
+        "answers": ["obvykle"]
+    },
+    {
+        "question": "tanto",
+        "options": ["tolik, hodně", "málo", "trochu", "všechno"],
+        "answers": ["tolik, hodně"]
+    },
+    {
+        "question": "tavolino",
+        "options": ["stolek", "stůl", "židle", "pult"],
+        "answers": ["stolek"]
+    },
+    {
+        "question": "tutti",
+        "options": ["všichni", "každý", "někdo", "nikdo"],
+        "answers": ["všichni"]
+    },
+    {
+        "question": "vi",
+        "options": ["vám", "nám", "jim", "tobě"],
+        "answers": ["vám"]
+    },
+    {
+        "question": "visita",
+        "options": ["návštěva", "večírek", "oslava", "procházka"],
+        "answers": ["návštěva"]
+    },
+    {
+        "question": "aereo",
+        "options": ["letadlo", "auto", "vlak", "loď"],
+        "answers": ["letadlo"]
+    },
+    {
+        "question": "andare a letto",
+        "options": ["jít si lehnout", "odpočívat", "učit se", "pracovat"],
+        "answers": ["jít si lehnout"]
+    },
+    {
+        "question": "aprire",
+        "options": ["otvírat", "zavírat", "položit", "vyndat"],
+        "answers": ["otvírat"]
+    },
+    {
+        "question": "caldo/a",
+        "options": ["teplý/á", "studený/á", "horký/á", "mrazivý/á"],
+        "answers": ["teplý/á"]
+    },
+    {
+        "question": "canale",
+        "options": ["kanál; tv program", "řeka", "most", "příkop"],
+        "answers": ["kanál; tv program"]
+    },
+    {
+        "question": "capire, capisco",
+        "options": ["rozumět", "mluvit", "slyšet", "vědět"],
+        "answers": ["rozumět"]
+    },
+    {
+        "question": "caro/a",
+        "options": ["drahý/á", "levný/á", "dobrý/á", "špatný/á"],
+        "answers": ["drahý/á"]
+    },
+    {
+        "question": "che",
+        "options": ["jaký/á; který/á", "kde", "proč", "co"],
+        "answers": ["jaký/á; který/á"]
+    },
+    {
+        "question": "chiacchierare",
+        "options": ["povídat si", "pracovat", "studovat", "zpívat"],
+        "answers": ["povídat si"]
+    },
+    {
+        "question": "chilogrammo",
+        "options": ["kilogram", "gram", "metr", "litr"],
+        "answers": ["kilogram"]
+    },
+    {
+        "question": "cosa",
+        "options": ["věc", "místo", "osoba", "čas"],
+        "answers": ["věc"]
+    },
+    {
+        "question": "costruire, costruisco",
+        "options": ["stavět", "bourat", "přesouvat", "opravovat"],
+        "answers": ["stavět"]
+    },
+    {
+        "question": "cultura",
+        "options": ["kultura", "vzdělání", "umění", "zábava"],
+        "answers": ["kultura"]
+    },
+    {
+        "question": "dare",
+        "options": ["dávat", "brát", "zvedat", "ukazovat"],
+        "answers": ["dávat"]
+    },
+    {
+        "question": "delfino",
+        "options": ["delfín", "ryba", "žralok", "velryba"],
+        "answers": ["delfín"]
+    },
+    {
+        "question": "distrutto/a",
+        "options": ["zničený/á", "unavený/á", "rozbitý/á", "pohmožděný/á"],
+        "answers": ["zničený/á"]
+    },
+    {
+        "question": "documentario",
+        "options": ["dokumentární film", "seriál", "zprávy", "reklama"],
+        "answers": ["dokumentární film"]
+    },
+    {
+        "question": "dormire",
+        "options": ["spát", "odpočívat", "ležet", "pospíchat"],
+        "answers": ["spát"]
+    },
+    {
+        "question": "esame",
+        "options": ["zkouška", "lekce", "hodina", "test"],
+        "answers": ["zkouška"]
+    },
+    {
+        "question": "esattamente",
+        "options": ["přesně", "přibližně", "možná", "náhodně"],
+        "answers": ["přesně"]
+    },
+    {
+        "question": "fare",
+        "options": ["dělat", "odpočívat", "učit se", "spát"],
+        "answers": ["dělat"]
+    },
+    {
+        "question": "finestra",
+        "options": ["okno", "dveře", "stůl", "židle"],
+        "answers": ["okno"]
+    },
+    {
+        "question": "finire, finisco",
+        "options": ["končit", "začít", "trvat", "přerušit"],
+        "answers": ["končit"]
+    },
+    {
+        "question": "fino a",
+        "options": ["až do (čas. předl.)", "před", "během", "po"],
+        "answers": ["až do (čas. předl.)"]
+    },
+    {
+        "question": "fuori",
+        "options": ["venku, ven", "uvnitř", "nahoře", "dole"],
+        "answers": ["venku, ven"]
+    },
+    {
+        "question": "idea",
+        "options": ["nápad; myšlenka", "slovo", "věc", "projekt"],
+        "answers": ["nápad; myšlenka"]
+    },
+    {
+        "question": "iniziare",
+        "options": ["začít", "skončit", "pokračovat", "přerušit"],
+        "answers": ["začít"]
+    },
+    {
+        "question": "letto",
+        "options": ["postel", "stůl", "židle", "křeslo"],
+        "answers": ["postel"]
+    },
+    {
+        "question": "meno",
+        "options": ["méně, minus", "více, plus", "rovno", "krát"],
+        "answers": ["méně, minus"]
+    },
+    {
+        "question": "metrò",
+        "options": ["metro", "vlak", "tramvaj", "autobus"],
+        "answers": ["metro"]
+    },
+    {
+        "question": "mezzanotte",
+        "options": ["půlnoc", "poledne", "večer", "ráno"],
+        "answers": ["půlnoc"]
+    },
+    {
+        "question": "mezzo",
+        "options": ["půl; půlka", "část", "více", "méně"],
+        "answers": ["půl; půlka"]
+    },
+    {
+        "question": "morto/a",
+        "options": ["mrtvý/á", "zraněný/á", "nemocný/á", "spící/á"],
+        "answers": ["mrtvý/á"]
+    },
+    {
+        "question": "offrire",
+        "options": ["nabídnout", "přijmout", "odmítnout", "vzít"],
+        "answers": ["nabídnout"]
+    },
+    {
+        "question": "oggi",
+        "options": ["dnes", "zítra", "včera", "brzy"],
+        "answers": ["dnes"]
+    },
+    {
+        "question": "ottimo/a",
+        "options": ["výborný/á", "dobrý/á", "průměrný/á", "špatný/á"],
+        "answers": ["výborný/á"]
+    },
+    {
+        "question": "partire",
+        "options": ["odjet", "přijet", "zůstat", "vrátit se"],
+        "answers": ["odjet"]
+    },
+    {
+        "question": "passare",
+        "options": ["(pro)jít, (pro)jet", "zastavit se", "zdržet se", "odložit"],
+        "answers": ["(pro)jít, (pro)jet"]
+    },
+    {
+        "question": "peccato!",
+        "options": ["škoda!", "nádhera!", "díky!", "pozor!"],
+        "answers": ["škoda!"]
+    },
+    {
+        "question": "pensare",
+        "options": ["myslet", "mluvit", "slyšet", "vidět"],
+        "answers": ["myslet"]
+    },
+    {
+        "question": "più",
+        "options": ["více; plus", "méně; minus", "rovno", "hodně"],
+        "answers": ["více; plus"]
+    },
+    {
+        "question": "porta",
+        "options": ["dveře", "okno", "stůl", "židle"],
+        "answers": ["dveře"]
+    },
+    {
+        "question": "posta",
+        "options": ["pošta", "dopisy", "balíky", "úřad"],
+        "answers": ["pošta"]
+    },
+    {
+        "question": "potere",
+        "options": ["moci", "dělat", "říkat", "mít"],
+        "answers": ["moci"]
+    },
+    {
+        "question": "pranzare",
+        "options": ["obědvat", "snídat", "večeřet", "svačit"],
+        "answers": ["obědvat"]
+    },
+    {
+        "question": "preferire",
+        "options": ["mít raději; upřednostňovat", "představovat", "navrhovat", "nabízet"],
+        "answers": ["mít raději; upřednostňovat"]
+    },
+    {
+        "question": "presto",
+        "options": ["brzy", "pozdě", "teď", "nikdy"],
+        "answers": ["brzy"]
+    },
+    {
+        "question": "primo/a",
+        "options": ["první", "poslední", "další", "hlavní"],
+        "answers": ["první"]
+    },
+    {
+        "question": "privato/a",
+        "options": ["soukromý/á", "veřejný/á", "otevřený/á", "tajný/á"],
+        "answers": ["soukromý/á"]
+    },
+    {
+        "question": "proprio",
+        "options": ["právě; vlastní", "jiný; cizí", "tajně", "rychle"],
+        "answers": ["právě; vlastní"]
+    },
+    {
+        "question": "pubblicità",
+        "options": ["reklama", "zpráva", "článek", "film"],
+        "answers": ["reklama"]
+    },
+    {
+        "question": "pulire",
+        "options": ["čistit", "zametat", "umývat", "utírat"],
+        "answers": ["čistit"]
+    },
+    {
+        "question": "quarto",
+        "options": ["čtvrt; čtvrtka", "půl", "více", "méně"],
+        "answers": ["čtvrt; čtvrtka"]
+    },
+    {
+        "question": "raffreddato/a",
+        "options": ["nachlazený/á", "unavený/á", "zraněný/á", "vyléčený/á"],
+        "answers": ["nachlazený/á"]
+    },
+    {
+        "question": "restare",
+        "options": ["zůstávat", "odcházet", "vstávat", "ležet"],
+        "answers": ["zůstávat"]
+    },
+    {
+        "question": "restituire",
+        "options": ["vracet", "dávat", "přijímat", "uchovávat"],
+        "answers": ["vracet"]
+    },
+    {
+        "question": "ricordare",
+        "options": ["vzpomínat si", "zapomínat", "psát", "přemýšlet"],
+        "answers": ["vzpomínat si"]
+    },
+    {
+        "question": "romantico/a",
+        "options": ["romantický/á", "praktický/á", "reálný/á", "chladný/á"],
+        "answers": ["romantický/á"]
+    },
+    {
+        "question": "seguire",
+        "options": ["sledovat", "poslouchat", "zapisovat", "opakovat"],
+        "answers": ["sledovat"]
+    },
+    {
+        "question": "sentire",
+        "options": ["slyšet; cítit", "mluvit", "vidět", "vnímat"],
+        "answers": ["slyšet; cítit"]
+    },
+    {
+        "question": "spedire",
+        "options": ["poslat", "přijmout", "uložit", "zahodit"],
+        "answers": ["poslat"]
+    },
+    {
+        "question": "stanco/a",
+        "options": ["unavený/á", "odpočatý/á", "neklidný/á", "spící/á"],
+        "answers": ["unavený/á"]
+    },
+    {
+        "question": "stasera",
+        "options": ["dnes večer", "zítra večer", "včera večer", "brzy ráno"],
+        "answers": ["dnes večer"]
+    },
+    {
+        "question": "tardi",
+        "options": ["pozdě", "brzy", "teď", "nikdy"],
+        "answers": ["pozdě"]
+    },
+    {
+        "question": "telenovela",
+        "options": ["televizní seriál", "dokumentární film", "reklama", "zpráva"],
+        "answers": ["televizní seriál"]
+    },
+    {
+        "question": "tipo",
+        "options": ["druh; typ", "kategorie", "styl", "model"],
+        "answers": ["druh; typ"]
+    },
+    {
+        "question": "tram",
+        "options": ["tramvaj", "metro", "autobus", "vlak"],
+        "answers": ["tramvaj"]
+    },
+    {
+        "question": "troppo",
+        "options": ["příliš", "málo", "hodně", "nic"],
+        "answers": ["příliš"]
+    },
+    {
+        "question": "ultimo/a",
+        "options": ["poslední", "první", "další", "hlavní"],
+        "answers": ["poslední"]
+    },
+    {
+        "question": "uscire",
+        "options": ["vycházet; jít ven", "přicházet", "odcházet", "zůstávat"],
+        "answers": ["vycházet; jít ven"]
+    },
+    {
+        "question": "veramente",
+        "options": ["opravdu", "možná", "asi", "nikdy"],
+        "answers": ["opravdu"]
+    }
+]

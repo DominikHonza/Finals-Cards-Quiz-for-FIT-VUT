@@ -1,0 +1,357 @@
+[
+    {
+        "question": "aereo",
+        "options": ["letadlo", "auto", "vlak", "loď"],
+        "answers": ["letadlo"]
+    },
+    {
+        "question": "andare a letto",
+        "options": ["jít si lehnout", "odpočívat", "učit se", "pracovat"],
+        "answers": ["jít si lehnout"]
+    },
+    {
+        "question": "aprire",
+        "options": ["otvírat", "zavírat", "položit", "vyndat"],
+        "answers": ["otvírat"]
+    },
+    {
+        "question": "caldo/a",
+        "options": ["teplý/á", "studený/á", "horký/á", "mrazivý/á"],
+        "answers": ["teplý/á"]
+    },
+    {
+        "question": "canale",
+        "options": ["kanál; tv program", "řeka", "most", "příkop"],
+        "answers": ["kanál; tv program"]
+    },
+    {
+        "question": "capire, capisco",
+        "options": ["rozumět", "mluvit", "slyšet", "vědět"],
+        "answers": ["rozumět"]
+    },
+    {
+        "question": "caro/a",
+        "options": ["drahý/á", "levný/á", "dobrý/á", "špatný/á"],
+        "answers": ["drahý/á"]
+    },
+    {
+        "question": "che",
+        "options": ["jaký/á; který/á", "kde", "proč", "co"],
+        "answers": ["jaký/á; který/á"]
+    },
+    {
+        "question": "chiacchierare",
+        "options": ["povídat si", "pracovat", "studovat", "zpívat"],
+        "answers": ["povídat si"]
+    },
+    {
+        "question": "chilogrammo",
+        "options": ["kilogram", "gram", "metr", "litr"],
+        "answers": ["kilogram"]
+    },
+    {
+        "question": "cosa",
+        "options": ["věc", "místo", "osoba", "čas"],
+        "answers": ["věc"]
+    },
+    {
+        "question": "costruire, costruisco",
+        "options": ["stavět", "bourat", "přesouvat", "opravovat"],
+        "answers": ["stavět"]
+    },
+    {
+        "question": "cultura",
+        "options": ["kultura", "vzdělání", "umění", "zábava"],
+        "answers": ["kultura"]
+    },
+    {
+        "question": "dare",
+        "options": ["dávat", "brát", "zvedat", "ukazovat"],
+        "answers": ["dávat"]
+    },
+    {
+        "question": "delfino",
+        "options": ["delfín", "ryba", "žralok", "velryba"],
+        "answers": ["delfín"]
+    },
+    {
+        "question": "distrutto/a",
+        "options": ["zničený/á", "unavený/á", "rozbitý/á", "pohmožděný/á"],
+        "answers": ["zničený/á"]
+    },
+    {
+        "question": "documentario",
+        "options": ["dokumentární film", "seriál", "zprávy", "reklama"],
+        "answers": ["dokumentární film"]
+    },
+    {
+        "question": "dormire",
+        "options": ["spát", "odpočívat", "ležet", "pospíchat"],
+        "answers": ["spát"]
+    },
+    {
+        "question": "esame",
+        "options": ["zkouška", "lekce", "hodina", "test"],
+        "answers": ["zkouška"]
+    },
+    {
+        "question": "esattamente",
+        "options": ["přesně", "přibližně", "možná", "náhodně"],
+        "answers": ["přesně"]
+    },
+    {
+        "question": "fare",
+        "options": ["dělat", "odpočívat", "učit se", "spát"],
+        "answers": ["dělat"]
+    },
+    {
+        "question": "finestra",
+        "options": ["okno", "dveře", "stůl", "židle"],
+        "answers": ["okno"]
+    },
+    {
+        "question": "finire, finisco",
+        "options": ["končit", "začít", "trvat", "přerušit"],
+        "answers": ["končit"]
+    },
+    {
+        "question": "fino a",
+        "options": ["až do (čas. předl.)", "před", "během", "po"],
+        "answers": ["až do (čas. předl.)"]
+    },
+    {
+        "question": "fuori",
+        "options": ["venku, ven", "uvnitř", "nahoře", "dole"],
+        "answers": ["venku, ven"]
+    },
+    {
+        "question": "idea",
+        "options": ["nápad; myšlenka", "slovo", "věc", "projekt"],
+        "answers": ["nápad; myšlenka"]
+    },
+    {
+        "question": "iniziare",
+        "options": ["začít", "skončit", "pokračovat", "přerušit"],
+        "answers": ["začít"]
+    },
+    {
+        "question": "letto",
+        "options": ["postel", "stůl", "židle", "křeslo"],
+        "answers": ["postel"]
+    },
+    {
+        "question": "meno",
+        "options": ["méně, minus", "více, plus", "rovno", "krát"],
+        "answers": ["méně, minus"]
+    },
+    {
+        "question": "metrò",
+        "options": ["metro", "vlak", "tramvaj", "autobus"],
+        "answers": ["metro"]
+    },
+    {
+        "question": "mezzanotte",
+        "options": ["půlnoc", "poledne", "večer", "ráno"],
+        "answers": ["půlnoc"]
+    },
+    {
+        "question": "mezzo",
+        "options": ["půl; půlka", "část", "více", "méně"],
+        "answers": ["půl; půlka"]
+    },
+    {
+        "question": "morto/a",
+        "options": ["mrtvý/á", "zraněný/á", "nemocný/á", "spící/á"],
+        "answers": ["mrtvý/á"]
+    },
+    {
+        "question": "offrire",
+        "options": ["nabídnout", "přijmout", "odmítnout", "vzít"],
+        "answers": ["nabídnout"]
+    },
+    {
+        "question": "oggi",
+        "options": ["dnes", "zítra", "včera", "brzy"],
+        "answers": ["dnes"]
+    },
+    {
+        "question": "ottimo/a",
+        "options": ["výborný/á", "dobrý/á", "průměrný/á", "špatný/á"],
+        "answers": ["výborný/á"]
+    },
+    {
+        "question": "partire",
+        "options": ["odjet", "přijet", "zůstat", "vrátit se"],
+        "answers": ["odjet"]
+    },
+    {
+        "question": "passare",
+        "options": ["(pro)jít, (pro)jet", "zastavit se", "zdržet se", "odložit"],
+        "answers": ["(pro)jít, (pro)jet"]
+    },
+    {
+        "question": "peccato!",
+        "options": ["škoda!", "nádhera!", "díky!", "pozor!"],
+        "answers": ["škoda!"]
+    },
+    {
+        "question": "pensare",
+        "options": ["myslet", "mluvit", "slyšet", "vidět"],
+        "answers": ["myslet"]
+    },
+    {
+        "question": "più",
+        "options": ["více; plus", "méně; minus", "rovno", "hodně"],
+        "answers": ["více; plus"]
+    },
+    {
+        "question": "porta",
+        "options": ["dveře", "okno", "stůl", "zidle"],
+        "answers": ["dveře"]
+    },
+    {
+        "question": "posta",
+        "options": ["pošta", "dopisy", "balíky", "úřad"],
+        "answers": ["pošta"]
+    },
+    {
+        "question": "potere",
+        "options": ["moci", "dělat", "říkat", "mít"],
+        "answers": ["moci"]
+    },
+    {
+        "question": "pranzare",
+        "options": ["obědvat", "snídat", "večeřet", "svačit"],
+        "answers": ["obědvat"]
+    },
+    {
+        "question": "preferire",
+        "options": ["mít raději; upřednostňovat", "představovat", "navrhovat", "nabízet"],
+        "answers": ["mít raději; upřednostňovat"]
+    },
+    {
+        "question": "presto",
+        "options": ["brzy", "pozdě", "teď", "nikdy"],
+        "answers": ["brzy"]
+    },
+    {
+        "question": "primo/a",
+        "options": ["první", "poslední", "další", "hlavní"],
+        "answers": ["první"]
+    },
+    {
+        "question": "privato/a",
+        "options": ["soukromý/á", "veřejný/á", "otevřený/á", "tajný/á"],
+        "answers": ["soukromý/á"]
+    },
+    {
+        "question": "proprio",
+        "options": ["právě; vlastní", "jiný; cizí", "tajně", "rychle"],
+        "answers": ["právě; vlastní"]
+    },
+    {
+        "question": "pubblicità",
+        "options": ["reklama", "zpráva", "článek", "film"],
+        "answers": ["reklama"]
+    },
+    {
+        "question": "pulire",
+        "options": ["čistit", "zametat", "umývat", "utírat"],
+        "answers": ["čistit"]
+    },
+    {
+        "question": "quarto",
+        "options": ["čtvrt; čtvrtka", "půl", "více", "méně"],
+        "answers": ["čtvrt; čtvrtka"]
+    },
+    {
+        "question": "raffreddato/a",
+        "options": ["nachlazený/á", "unavený/á", "zraněný/á", "vyléčený/á"],
+        "answers": ["nachlazený/á"]
+    },
+    {
+        "question": "restare",
+        "options": ["zůstávat", "odcházet", "vstávat", "ležet"],
+        "answers": ["zůstávat"]
+    },
+    {
+        "question": "restituire",
+        "options": ["vracet", "dávat", "přijímat", "uchovávat"],
+        "answers": ["vracet"]
+    },
+    {
+        "question": "ricordare",
+        "options": ["vzpomínat si", "zapomínat", "psát", "přemýšlet"],
+        "answers": ["vzpomínat si"]
+    },
+    {
+        "question": "romantico/a",
+        "options": ["romantický/á", "praktický/á", "reálný/á", "chladný/á"],
+        "answers": ["romantický/á"]
+    },
+    {
+        "question": "seguire",
+        "options": ["sledovat", "poslouchat", "zapisovat", "opakovat"],
+        "answers": ["sledovat"]
+    },
+    {
+        "question": "sentire",
+        "options": ["slyšet; cítit", "mluvit", "vidět", "vnímat"],
+        "answers": ["slyšet; cítit"]
+    },
+    {
+        "question": "spedire",
+        "options": ["poslat", "přijmout", "uložit", "zahodit"],
+        "answers": ["poslat"]
+    },
+    {
+        "question": "stanco/a",
+        "options": ["unavený/á", "odpočatý/á", "neklidný/á", "spící/á"],
+        "answers": ["unavený/á"]
+    },
+    {
+        "question": "stasera",
+        "options": ["dnes večer", "zítra večer", "včera večer", "brzy ráno"],
+        "answers": ["dnes večer"]
+    },
+    {
+        "question": "tardi",
+        "options": ["pozdě", "brzy", "teď", "nikdy"],
+        "answers": ["pozdě"]
+    },
+    {
+        "question": "telenovela",
+        "options": ["televizní seriál", "dokumentární film", "reklama", "zpráva"],
+        "answers": ["televizní seriál"]
+    },
+    {
+        "question": "tipo",
+        "options": ["druh; typ", "kategorie", "styl", "model"],
+        "answers": ["druh; typ"]
+    },
+    {
+        "question": "tram",
+        "options": ["tramvaj", "metro", "autobus", "vlak"],
+        "answers": ["tramvaj"]
+    },
+    {
+        "question": "troppo",
+        "options": ["příliš", "málo", "hodně", "nic"],
+        "answers": ["příliš"]
+    },
+    {
+        "question": "ultimo/a",
+        "options": ["poslední", "první", "další", "hlavní"],
+        "answers": ["poslední"]
+    },
+    {
+        "question": "uscire",
+        "options": ["vycházet; jít ven", "přicházet", "odcházet", "zůstávat"],
+        "answers": ["vycházet; jít ven"]
+    },
+    {
+        "question": "veramente",
+        "options": ["opravdu", "možná", "asi", "nikdy"],
+        "answers": ["opravdu"]
+    }
+]

@@ -69,6 +69,7 @@ def show_hint():
             btn.config(bg="orange", fg="black")
 
 # Function to display a random question
+# Function to display a random question
 def display_question():
     global quiz_data
     if not quiz_data:
@@ -83,11 +84,17 @@ def display_question():
     question_text.set(question["question"])
     correct_answers.set(question["answers"])
     correct_count.set(f"Correct answers: {len(question['answers'])}")
-    for i, option in enumerate(question["options"]):
+
+    # Shuffle options to display them in random order
+    shuffled_options = question["options"][:]
+    random.shuffle(shuffled_options)
+
+    for i, option in enumerate(shuffled_options):
         option_buttons[i].config(
             text=option,
             command=lambda opt=option, btn=option_buttons[i]: check_answer(opt, correct_answers.get(), btn)
         )
+
 
 # Function to start the quiz with the selected question set
 def start_quiz(file_name):

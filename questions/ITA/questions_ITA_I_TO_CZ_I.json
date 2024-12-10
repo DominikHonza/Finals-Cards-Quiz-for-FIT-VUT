@@ -1,0 +1,247 @@
+[
+    {
+        "question": "artista",
+        "options": ["umělec", "herec", "tatínek", "kolo"],
+        "answers": ["umělec"]
+    },
+    {
+        "question": "attore/attrice",
+        "options": ["umělec", "herec/herečka", "zpěvák/zpěvačka", "fotbalista"],
+        "answers": ["herec/herečka"]
+    },
+    {
+        "question": "babbo",
+        "options": ["tatínek", "čokoláda", "lyžař", "zpěvák/zpěvačka"],
+        "answers": ["tatínek"]
+    },
+    {
+        "question": "bicicletta",
+        "options": ["kolo", "motorka", "město", "kravata"],
+        "answers": ["kolo"]
+    },
+    {
+        "question": "calciatore",
+        "options": ["fotbalista", "hudební skladatel", "zpěvák/zpěvačka", "básník"],
+        "answers": ["fotbalista"]
+    },
+    {
+        "question": "cantante",
+        "options": ["zpěvák/zpěvačka", "herec/herečka", "tatínek", "fotbalista"],
+        "answers": ["zpěvák/zpěvačka"]
+    },
+    {
+        "question": "capisce",
+        "options": ["rozumí", "rozumíš", "město", "kaučuk"],
+        "answers": ["rozumí"]
+    },
+    {
+        "question": "capisci",
+        "options": ["rozumíš", "rozumí", "tatínek", "město"],
+        "answers": ["rozumíš"]
+    },
+    {
+        "question": "caucciù",
+        "options": ["kaučuk", "zlato", "čokoláda", "lyžař"],
+        "answers": ["kaučuk"]
+    },
+    {
+        "question": "chirurgo",
+        "options": ["chirurg", "politika", "fakulta", "město"],
+        "answers": ["chirurg"]
+    },
+    {
+        "question": "ciao",
+        "options": ["ahoj", "čokoláda", "město", "fakulta"],
+        "answers": ["ahoj"]
+    },
+    {
+        "question": "cioccolato",
+        "options": ["čokoláda (nápoj)", "lyžař", "zpěvák/zpěvačka", "zlato"],
+        "answers": ["čokoláda (nápoj)"]
+    },
+    {
+        "question": "città",
+        "options": ["město", "tatínek", "kravata", "umělec"],
+        "answers": ["město"]
+    },
+    {
+        "question": "come",
+        "options": ["jak", "kaučuk", "fotbalista", "zpěvák/zpěvačka"],
+        "answers": ["jak"]
+    },
+    {
+        "question": "compositore",
+        "options": ["hudební skladatel", "básník", "lyžař", "fakulta"],
+        "answers": ["hudební skladatel"]
+    },
+    {
+        "question": "costruttore",
+        "options": ["konstruktér automobilů", "chirurg", "tatínek", "město"],
+        "answers": ["konstruktér automobilů"]
+    },
+    {
+        "question": "cravatta",
+        "options": ["kravata", "fakulta", "zpěvák/zpěvačka", "čokoláda"],
+        "answers": ["kravata"]
+    },
+    {
+        "question": "facoltà",
+        "options": ["fakulta", "město", "umělec", "fotbalista"],
+        "answers": ["fakulta"]
+    },
+    {
+        "question": "genio",
+        "options": ["génius", "lyžař", "fotbalista", "zpěvák/zpěvačka"],
+        "answers": ["génius"]
+    },
+    {
+        "question": "giornalista",
+        "options": ["novinář", "zpěvák/zpěvačka", "básník", "fakulta"],
+        "answers": ["novinář"]
+    },
+    {
+        "question": "gnocchi",
+        "options": ["noky", "lyžař", "fakulta", "čokoláda"],
+        "answers": ["noky"]
+    },
+    {
+        "question": "gondola",
+        "options": ["gondola", "město", "lyžař", "kravata"],
+        "answers": ["gondola"]
+    },
+    {
+        "question": "gusto",
+        "options": ["chuť, vkus", "zpěvák/zpěvačka", "město", "lyžař"],
+        "answers": ["chuť, vkus"]
+    },
+    {
+        "question": "mamma",
+        "options": ["maminka", "tatínek", "zpěvák/zpěvačka", "básník"],
+        "answers": ["maminka"]
+    },
+    {
+        "question": "Mediterraneo",
+        "options": ["Středozemní moře", "fakulta", "město", "umělec"],
+        "answers": ["Středozemní moře"]
+    },
+    {
+        "question": "motocicletta",
+        "options": ["motorka", "kolo", "město", "tatínek"],
+        "answers": ["motorka"]
+    },
+    {
+        "question": "oro",
+        "options": ["zlato", "kaučuk", "čokoláda", "město"],
+        "answers": ["zlato"]
+    },
+    {
+        "question": "personaggio",
+        "options": ["pohádková postava", "zpěvák/zpěvačka", "město", "kravata"],
+        "answers": ["pohádková postava"]
+    },
+    {
+        "question": "pizza",
+        "options": ["pizza", "čokoláda", "tatínek", "umělec"],
+        "answers": ["pizza"]
+    },
+    {
+        "question": "poeta",
+        "options": ["básník", "novinář", "zpěvák/zpěvačka", "lyžař"],
+        "answers": ["básník"]
+    },
+    {
+        "question": "politico",
+        "options": ["politik", "novinář", "umělec", "město"],
+        "answers": ["politik"]
+    },
+    {
+        "question": "questo",
+        "options": ["tento, toto", "ahoj", "lyžař", "zpěvák/zpěvačka"],
+        "answers": ["tento, toto"]
+    },
+    {
+        "question": "regista",
+        "options": ["režisér", "zpěvák/zpěvačka", "město", "tatínek"],
+        "answers": ["režisér"]
+    },
+    {
+        "question": "rivoluzionario",
+        "options": ["revolucionář", "zpěvák/zpěvačka", "básník", "umělec"],
+        "answers": ["revolucionář"]
+    },
+    {
+        "question": "sciatore",
+        "options": ["lyžař", "fotbalista", "básník", "zpěvák/zpěvačka"],
+        "answers": ["lyžař"]
+    },
+    {
+        "question": "scrittore/scrittrice",
+        "options": ["spisovatel/spisovatelka", "zpěvák/zpěvačka", "novinář", "fakulta"],
+        "answers": ["spisovatel/spisovatelka"]
+    },
+    {
+        "question": "scusi!",
+        "options": ["promiňte!", "ahoj", "tento, toto", "zpěvák/zpěvačka"],
+        "answers": ["promiňte!"]
+    },
+    {
+        "question": "signore/signora",
+        "options": ["pán/paní", "tatínek", "novinář", "fotbalista"],
+        "answers": ["pán/paní"]
+    },
+    {
+        "question": "slovacco",
+        "options": ["slovenský", "zpěvák/zpěvačka", "město", "lyžař"],
+        "answers": ["slovenský"]
+    },
+    {
+        "question": "spaghetti",
+        "options": ["špagety", "noky", "čokoláda", "básník"],
+        "answers": ["špagety"]
+    },
+    {
+        "question": "telefonano",
+        "options": ["telefonují", "rozumíš", "zpěvák/zpěvačka", "město"],
+        "answers": ["telefonují"]
+    },
+    {
+        "question": "università",
+        "options": ["univerzita", "fakulta", "město", "zpěvák/zpěvačka"],
+        "answers": ["univerzita"]
+    },
+    {
+        "question": "vino",
+        "options": ["víno", "čokoláda", "zpěvák/zpěvačka", "lyžař"],
+        "answers": ["víno"]
+    },
+    {
+        "question": "zero",
+        "options": ["nula", "fakulta", "tatínek", "zpěvák/zpěvačka"],
+        "answers": ["nula"]
+    },
+    {
+        "question": "capitale",
+        "options": ["hlavní město", "region", "mapa", "země"],
+        "answers": ["hlavní město"]
+    },
+    {
+        "question": "carta geografica",
+        "options": ["mapa", "moře", "hora", "obec"],
+        "answers": ["mapa"]
+    },
+    {
+        "question": "fiume",
+        "options": ["řeka", "země", "hlavní město regionu", "moře"],
+        "answers": ["řeka"]
+    },
+    {
+        "question": "Italia",
+        "options": ["Itálie", "hlavní město regionu", "region", "hora"],
+        "answers": ["Itálie"]
+    },
+    {
+        "question": "mare",
+        "options": ["moře", "hora", "mapa", "každý"],
+        "answers": ["moře"]
+    }
+]

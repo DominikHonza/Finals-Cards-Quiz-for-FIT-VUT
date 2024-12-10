@@ -1,0 +1,292 @@
+[
+    {
+        "question": "umělec",
+        "options": ["artista", "attore", "cantante", "compositore"],
+        "answers": ["artista"]
+    },
+    {
+        "question": "herec/herečka",
+        "options": ["attore/attrice", "artista", "cantante", "poeta"],
+        "answers": ["attore/attrice"]
+    },
+    {
+        "question": "tatínek",
+        "options": ["babbo", "zio", "mamma", "signore"],
+        "answers": ["babbo"]
+    },
+    {
+        "question": "kolo",
+        "options": ["bicicletta", "motocicletta", "automobile", "tram"],
+        "answers": ["bicicletta"]
+    },
+    {
+        "question": "fotbalista",
+        "options": ["calciatore", "sciatore", "attore", "giornalista"],
+        "answers": ["calciatore"]
+    },
+    {
+        "question": "zpěvák/zpěvačka",
+        "options": ["cantante", "attore", "giornalista", "regista"],
+        "answers": ["cantante"]
+    },
+    {
+        "question": "rozumí",
+        "options": ["capisce", "capisci", "comprende", "sente"],
+        "answers": ["capisce"]
+    },
+    {
+        "question": "rozumíš",
+        "options": ["capisci", "capisce", "comprendi", "senti"],
+        "answers": ["capisci"]
+    },
+    {
+        "question": "kaučuk",
+        "options": ["caucciù", "gomma", "plastica", "ceramica"],
+        "answers": ["caucciù"]
+    },
+    {
+        "question": "chirurg",
+        "options": ["chirurgo", "medico", "dottore", "infermiere"],
+        "answers": ["chirurgo"]
+    },
+    {
+        "question": "ahoj",
+        "options": ["ciao", "arrivederci", "salve", "buongiorno"],
+        "answers": ["ciao"]
+    },
+    {
+        "question": "čokoláda (nápoj)",
+        "options": ["cioccolato", "dolce", "torta", "gelato"],
+        "answers": ["cioccolato"]
+    },
+    {
+        "question": "město",
+        "options": ["città", "paese", "villaggio", "capoluogo"],
+        "answers": ["città"]
+    },
+    {
+        "question": "jak",
+        "options": ["come", "dove", "perché", "quanto"],
+        "answers": ["come"]
+    },
+    {
+        "question": "hudební skladatel",
+        "options": ["compositore", "cantante", "attore", "giornalista"],
+        "answers": ["compositore"]
+    },
+    {
+        "question": "konstruktér automobilů",
+        "options": ["costruttore", "progettista", "meccanico", "venditore"],
+        "answers": ["costruttore"]
+    },
+    {
+        "question": "kravata",
+        "options": ["cravatta", "cintura", "giacca", "camicia"],
+        "answers": ["cravatta"]
+    },
+    {
+        "question": "fakulta",
+        "options": ["facoltà", "università", "scuola", "classe"],
+        "answers": ["facoltà"]
+    },
+    {
+        "question": "génius",
+        "options": ["genio", "talento", "maestro", "professore"],
+        "answers": ["genio"]
+    },
+    {
+        "question": "novinář",
+        "options": ["giornalista", "scrittore", "cantante", "regista"],
+        "answers": ["giornalista"]
+    },
+    {
+        "question": "ahoj",
+        "options": ["ciao", "arrivederci", "salve", "buongiorno"],
+        "answers": ["ciao"]
+    },
+    {
+        "question": "čokoláda (nápoj)",
+        "options": ["cioccolato", "dolce", "torta", "gelato"],
+        "answers": ["cioccolato"]
+    },
+    {
+        "question": "město",
+        "options": ["città", "paese", "villaggio", "capoluogo"],
+        "answers": ["città"]
+    },
+    {
+        "question": "jak",
+        "options": ["come", "dove", "perché", "quanto"],
+        "answers": ["come"]
+    },
+    {
+        "question": "hudební skladatel",
+        "options": ["compositore", "cantante", "attore", "giornalista"],
+        "answers": ["compositore"]
+    },
+    {
+        "question": "konstruktér automobilů",
+        "options": ["costruttore", "progettista", "meccanico", "venditore"],
+        "answers": ["costruttore"]
+    },
+    {
+        "question": "kravata",
+        "options": ["cravatta", "cintura", "giacca", "camicia"],
+        "answers": ["cravatta"]
+    },
+    {
+        "question": "fakulta",
+        "options": ["facoltà", "università", "scuola", "classe"],
+        "answers": ["facoltà"]
+    },
+    {
+        "question": "génius",
+        "options": ["genio", "talento", "maestro", "professore"],
+        "answers": ["genio"]
+    },
+    {
+        "question": "novinář",
+        "options": ["giornalista", "scrittore", "cantante", "regista"],
+        "answers": ["giornalista"]
+    },
+    {
+        "question": "noky",
+        "options": ["gnocchi", "pasta", "spaghetti", "lasagne"],
+        "answers": ["gnocchi"]
+    },
+    {
+        "question": "gondola",
+        "options": ["gondola", "barca", "traghetto", "canale"],
+        "answers": ["gondola"]
+    },
+    {
+        "question": "chuť, vkus",
+        "options": ["gusto", "sapore", "odore", "tocco"],
+        "answers": ["gusto"]
+    },
+    {
+        "question": "maminka",
+        "options": ["mamma", "babbo", "nonna", "zia"],
+        "answers": ["mamma"]
+    },
+    {
+        "question": "Středozemní moře",
+        "options": ["Mediterraneo", "Adriatico", "Ionio", "Egeo"],
+        "answers": ["Mediterraneo"]
+    },
+    {
+        "question": "motorka",
+        "options": ["motocicletta", "bicicletta", "vespa", "auto"],
+        "answers": ["motocicletta"]
+    },
+    {
+        "question": "zlato",
+        "options": ["oro", "argento", "rame", "ferro"],
+        "answers": ["oro"]
+    },
+    {
+        "question": "pohádková postava",
+        "options": ["personaggio", "eroe", "principessa", "strega"],
+        "answers": ["personaggio"]
+    },
+    {
+        "question": "pizza",
+        "options": ["pizza", "pane", "focaccia", "pasta"],
+        "answers": ["pizza"]
+    },
+    {
+        "question": "básník",
+        "options": ["poeta", "scrittore", "giornalista", "artista"],
+        "answers": ["poeta"]
+    },
+    {
+        "question": "politik",
+        "options": ["politico", "diplomatico", "governatore", "ministro"],
+        "answers": ["politico"]
+    },
+    {
+        "question": "tento, toto",
+        "options": ["questo", "quello", "ciò", "così"],
+        "answers": ["questo"]
+    },
+    {
+        "question": "režisér",
+        "options": ["regista", "attore", "scrittore", "produttore"],
+        "answers": ["regista"]
+    },
+    {
+        "question": "revolucionář",
+        "options": ["rivoluzionario", "patriota", "attivista", "politico"],
+        "answers": ["rivoluzionario"]
+    },
+    {
+        "question": "lyžař",
+        "options": ["sciatore", "alpinista", "sportivo", "corridore"],
+        "answers": ["sciatore"]
+    },
+    {
+        "question": "spisovatel/spisovatelka",
+        "options": ["scrittore/scrittrice", "poeta", "giornalista", "autore"],
+        "answers": ["scrittore/scrittrice"]
+    },
+    {
+        "question": "promiňte!",
+        "options": ["scusi!", "prego!", "grazie!", "salve!"],
+        "answers": ["scusi!"]
+    },
+    {
+        "question": "pán/paní",
+        "options": ["signore/signora", "zio/zia", "babbo/mamma", "maestro/maestra"],
+        "answers": ["signore/signora"]
+    },
+    {
+        "question": "slovenský",
+        "options": ["slovacco", "italiano", "tedesco", "spagnolo"],
+        "answers": ["slovacco"]
+    },
+    {
+        "question": "špagety",
+        "options": ["spaghetti", "gnocchi", "pasta", "lasagne"],
+        "answers": ["spaghetti"]
+    },
+    {
+        "question": "telefonují",
+        "options": ["telefonano", "chiamano", "parlano", "ascoltano"],
+        "answers": ["telefonano"]
+    },
+    {
+        "question": "univerzita",
+        "options": ["università", "facoltà", "scuola", "liceo"],
+        "answers": ["università"]
+    },
+    {
+        "question": "víno",
+        "options": ["vino", "birra", "acqua", "succo"],
+        "answers": ["vino"]
+    },
+    {
+        "question": "nula",
+        "options": ["zero", "uno", "due", "tre"],
+        "answers": ["zero"]
+    },
+    {
+        "question": "hlavní město",
+        "options": ["capitale", "città", "regione", "paese"],
+        "answers": ["capitale"]
+    },
+    {
+        "question": "mapa",
+        "options": ["carta geografica", "mappa", "planisfero", "cartina"],
+        "answers": ["carta geografica"]
+    },
+    {
+        "question": "řeka",
+        "options": ["fiume", "lago", "mare", "canale"],
+        "answers": ["fiume"]
+    },
+    {
+        "question": "moře",
+        "options": ["mare", "oceano", "lago", "fiume"],
+        "answers": ["mare"]
+    }
+]
