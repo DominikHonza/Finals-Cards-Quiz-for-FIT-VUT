@@ -1,0 +1,988 @@
+[
+    {
+        "question": "Programovací jazyk QML je založený na:",
+        "options": ["HASKELu", "CSS a JavaScriptu", "Java a patentů firmy Oracle", "Squeak Smalltalk"],
+        "answers": ["CSS a JavaScriptu"]
+    },
+    {
+        "question": "Zkratka WIMP označuje:",
+        "options": [
+            "Window, Icon, Menu, Pointer",
+            "Wearable, Identifiable, Memorable, Progressive",
+            "Wide screen, Indexed lists, Multitude of elements, Parallelism",
+            "Wearable, Idiosyncratic, Meaningful, Personizable"
+        ],
+        "answers": ["Window, Icon, Menu, Pointer"]
+    },
+    {
+        "question": "XAML je:",
+        "options": [
+            "Norma pro sestavování výsledného XML",
+            "Jazyk používaný pro definici GUI",
+            "Součást frameworku Windows Forms",
+            "Jazyk pro definování GUI web stránek"
+        ],
+        "answers": ["Jazyk používaný pro definici GUI"]
+    },
+    {
+        "question": "Pilotní testování je/slouží k:",
+        "options": [
+            "Zjištění problému, nejasností, nevhodně položených otázek",
+            "Nacvičení technik pro sběr dat",
+            "Sběr dat na rozsáhlém vzorku cílové skupiny",
+            "Menší studie, pomůže se poučit z chyb před provedením hlavní studie"
+        ],
+        "answers": [
+            "Zjištění problému, nejasností, nevhodně položených otázek",
+            "Nacvičení technik pro sběr dat",
+            "Menší studie, pomůže se poučit z chyb před provedením hlavní studie"
+        ]
+    },
+    {
+        "question": "Modální dialogové okno:",
+        "options": [
+            "Umožňuje vrátit řízení nadřazené aplikaci i když není uzavřené",
+            "Znemožní pracovat s libovolnou aplikací v systému, dokud není uzavřeno",
+            "Nemůže být nikdy zobrazeno, běží vždy na pozadí",
+            "Neumožňuje pokračovat nadřazené aplikaci, dokud není uzavřeno"
+        ],
+        "answers": [
+            "Neumožňuje pokračovat nadřazené aplikaci, dokud není uzavřeno"
+        ]
+    },
+    {
+        "question": "Překreslování oken ve Windows se děje:",
+        "options": [
+            "Jedině na základě volání API funkce onPaint",
+            "Vždy co nejrychleji jak je to možné (před ostatními thready)",
+            "Obvykle na základě příjmu zprávy (WM_PAINT)",
+            "Jedině na základě volání API funkce UpdateWindow"
+        ],
+        "answers": [
+            "Obvykle na základě příjmu zprávy (WM_PAINT)"
+        ]
+    },
+    {
+        "question": "Pokud objektu XmlHttpRequest nastavíme jeho atribut \"onreadystatechange = lion\":",
+        "options": [
+            "V atributu onreadystatechange bude uložen řetězec lion.",
+            "Prohlížeč přestane zobrazovat načtenou stránku, protože za lion chybí (), aby se jednalo o přiřazení funkce.",
+            "Při každé změně stavu HttpRequestObject se zavolá funkce s názvem lion, pokud daná funkce existuje.",
+            "Nic se nestane. U přiřazení funkce lion chybí (), ale Javascript tuto chybu ignoruje."
+        ],
+        "answers": [
+            "Při každé změně stavu HttpRequestObject se zavolá funkce s názvem lion, pokud daná funkce existuje."
+        ]
+    },
+    {
+        "question": "Jaké jsou vlastnosti GTK platformy (jaká tvrzení platí)?",
+        "options": [
+            "Řízené událostmi",
+            "Více-platformní",
+            "Pouze pro Linux platformy",
+            "Řízené místem v programu"
+        ],
+        "answers": [
+            "Řízené událostmi",
+            "Více-platformní"
+        ]
+    }, {
+        "question": "Device context ve WinAPI obecně reprezentuje:",
+        "options": [
+            "Okno systému Windows",
+            "Abstraktní objekt pro sjednocení vykreslování",
+            "Informace o stavu periferních zařízení",
+            "Frontu zpráv systému Windows"
+        ],
+        "answers": [
+            "Abstraktní objekt pro sjednocení vykreslování"
+        ]
+    },
+    {
+        "question": "Podstatou asynchronní komunikace u technologie AJAX je",
+        "options": [
+            "Spojení mezi klientem a serverem je udržováno neustále otevřené.",
+            "Server může sám iniciovat spojení s klientem, například při příchodu nové zprávy do chatu, kterou mu tak ihned pošle.",
+            "Klient nečeká na dokončení přenosu a umožňuje uživateli mezitím nadále se stránkou pracovat.",
+            "Klient může přijmout pouze hlavičku odpovědi a podle ní se dále rozhodnout, zda má zájem i o data v těle."
+        ],
+        "answers": [
+            "Klient nečeká na dokončení přenosu a umožňuje uživateli mezitím nadále se stránkou pracovat."
+        ]
+    },
+    {
+        "question": "Qwidget je",
+        "options": [
+            "základní grafické primitivum v Qt",
+            "základní nevizuální třída v Qt",
+            "třída reprezentující data v návrhovém vzoru MVC",
+            "nástroj využívaný při překladu Qt"
+        ],
+        "answers": [
+            "základní grafické primitivum v Qt"
+        ]
+    },
+    {
+        "question": "Která z následujících situací není vhodná pro použití technologie AJAX?",
+        "options": [
+            "Automatické periodické obnovování venkovní teploty zobrazené na webové stránce. Bude tak vždy zobrazena aktuální teplota.",
+            "Zobrazení menu webového portálu, které je na každé stránce stejné. Abychom jej tedy nemuseli na každé měnit zvlášť, uložíme jej na server a po načtení stránky zobrazíme AJAXem.",
+            "Našeptávač u vyhledávání, kdy jsou uživateli průběžně navrhovány možnosti, jak píše.",
+            "Průběžné ukládání (na pozadí) rozepsané zprávy v online e-mailovém klientovi."
+        ],
+        "answers": [
+            "Zobrazení menu webového portálu, které je na každé stránce stejné. Abychom jej tedy nemuseli na každé měnit zvlášť, uložíme jej na server a po načtení stránky zobrazíme AJAXem."
+        ]
+    },
+    {
+        "question": "Pilotní testování je/slouží k:",
+        "options": [
+            "Zjištění problému, nejasností, nevhodně položených otázek",
+            "Nacvičení technik pro sběr dat",
+            "Sběr dat na rozsáhlém vzorku cílové skupiny",
+            "Menší studie, pomůže se poučit z chyb před provedením hlavní studie"
+        ],
+        "answers": [
+            "Zjištění problému, nejasností, nevhodně položených otázek",
+            "Nacvičení technik pro sběr dat",
+            "Menší studie, pomůže se poučit z chyb před provedením hlavní studie"
+        ]
+    },
+    {
+        "question": "Diagram případů užití (use case diagram) při návrhu uživatelského rozhraní umožňuje identifikovat:",
+        "options": [
+            "Typické záměry uživatele s aplikací a situace, kdy uživatel aplikaci používá.",
+            "Základní funkční bloky programu (např. Přihlášení, výpis všech položek, přidání položky, atp.).",
+            "Zanoření jednotlivých funkcí programu do sebe a jejich vzájemné vztahy.",
+            "Pořadí, v jakém uživatel bude používat jednotlivé prvky uživatelského rozhraní."
+        ],
+        "answers": [
+            "Typické záměry uživatele s aplikací a situace, kdy uživatel aplikaci používá."
+        ]
+    },
+    {
+        "question": "Součástí Qt toolkitu je nástroj na tvorbu GUI, který se jmenuje:",
+        "options": [
+            "glade",
+            "xmkmf",
+            "designer",
+            "Builder"
+        ],
+        "answers": [
+            "designer"
+        ]
+    },
+    {
+        "question": "Do pravidel dobrého návrhu uživatelského rozhraní patří:",
+        "options": [
+            "Respektování pracovních postupů",
+            "Transparentní provádění akcí, kdy akce nelze přerušit či vrátit zpět",
+            "Uživatel si musí rozhraní dobře pamatovat",
+            "Zpětná vazba o průběhu akce"
+        ],
+        "answers": [
+            "Respektování pracovních postupů",
+            "Zpětná vazba o průběhu akce"
+        ]
+    },
+    {
+        "question": "Při stisku klávesy se ve Windows zašle zpráva:",
+        "options": [
+            "Okno, nad kterým se nachází myší kursor",
+            "Všem aplikacím",
+            "Okno aplikace, které má 'focus' (je na ně 'zaostřeno' a má zvýrazněný nadpis)",
+            "Aplikacím, které se zaregistrovaly k odběru zpráv z klávesnice"
+        ],
+        "answers": [
+            "Okno aplikace, které má 'focus' (je na ně 'zaostřeno' a má zvýrazněný nadpis)"
+        ]
+    },
+    {
+        "question": "Které tvrzení o formátu JSON JE pravdivé?",
+        "options": [
+            "Jedná se o podmnožinu Javascriptu, proto jej lze použít pouze v tomto jazyce.",
+            "Při jeho zpracování funkcí eval v Javascriptu je automaticky provedeno ošetření proti spuštění nebezpečného kódu, který by v datech mohl být obsažen.",
+            "Jeho syntaxe téměř odpovídá jazyku Javascript, ale v některých detailech se liší, proto obecně k jeho zpracování parser Javascriptu použít nelze.",
+            "Oproti formátu XML je úspornější, co se týče množství potřebných znaků pro popis stejné struktury dat."
+        ],
+        "answers": [
+            "Oproti formátu XML je úspornější, co se týče množství potřebných znaků pro popis stejné struktury dat."
+        ]
+    },
+    {
+        "question": "Mezi výhody využití technologie AJAX na klientovi patří:",
+        "options": [
+            "Konzistentní podpora mezi všemi prohlížeči, na rozdíl od jiných technologií pro asynchronní komunikaci.",
+            "Snížení počtu dotazů na server.",
+            "Jednodušší programování obsluhy událostí na klientovi.",
+            "Možnost aktualizovat pouze část stránky daty ze serveru."
+        ],
+        "answers": [
+            "Možnost aktualizovat pouze část stránky daty ze serveru."
+        ]
+    },
+    {
+        "question": "Jaké layouty se nacházejí ve WPF:",
+        "options": [
+            "Grid, StackPanel, RelativePanel",
+            "Grid, Canvas, VisualStateGroup, BoxLayout",
+            "Grid, StackPanel, Canvas, DockPanel",
+            "Grid, DockPanel, WrapLayoutPanel"
+        ],
+        "answers": [
+            "Grid, StackPanel, Canvas, DockPanel"
+        ]
+    },
+    {
+        "question": "Při prototypování GUI je validace a verifikace vhodná pro zjištění:",
+        "options": [
+            "Finanční náročnost vývoje produktu",
+            "Chyb v implementaci funkcí produktu",
+            "Počtu použitých příkazů",
+            "Frekvence užívání nápovědy",
+            "Kolikrát rozhraní zmátlo uživatele"
+        ],
+        "answers": [
+            "Kolikrát rozhraní zmátlo uživatele","Frekvence užívání nápovědy","Počtu použitých příkazů"
+        ]
+    },
+    {
+        "question": "Qt Quick (vyberte správné tvrzení):",
+        "options": [
+            "Je knihovna pro rychlé předávání zpráv mezi aplikacemi.",
+            "Obsahuje jazyk podobný CSS pro návrh uživatelského rozhraní.",
+            "Je podpora přehrávání audio a video souborů ve formátu QuickTime.",
+            "Je rozšíření Qt (wrapper) pro akcelerovanou grafiku (OpenGL)."
+        ],
+        "answers": [
+            "Obsahuje jazyk podobný CSS pro návrh uživatelského rozhraní."
+        ]
+    },
+    {
+        "question": "V Qt se zpravidla pro vytvoření makefile a následný překlad projektu používá:",
+        "options": [
+            "imake",
+            "qmake",
+            "xmkmf",
+            "qt designer"
+        ],
+        "answers": [
+            "qmake"
+        ]
+    },
+    {
+        "question": "Jaké vlastnosti má materiál v pojetí Material Design?",
+        "options": [
+            "Je plochý, má tloušťku 1dp, nejde ohýbat, může měnit svůj tvar v rovině, může se pohybovat vertikálně.",
+            "Je plochý, nekonečně tenký, zachovává svůj tvar až na měřítko, může se pohybovat vertikálně.",
+            "Je plochý nebo prohnutý, má nezápornou tloušťku, může měnit svůj tvar a tloušťku, může se pohybovat vertikálně.",
+            "Je plochý, má konstantní tloušťku, ohýbat/přehýbat se může pouze pokud je nejvyšším materiálem na obrazovce, vertikální pozice je daná pořadím (order) materiálů."
+        ],
+        "answers": [
+            "Je plochý, má tloušťku 1dp, nejde ohýbat, může měnit svůj tvar v rovině, může se pohybovat vertikálně."
+        ]
+    },
+    {
+        "question": "Při stisku a následném uvolnění klávesy 'a' se ve Windows generuje:",
+        "options": [
+            "Čtveřice zpráv (dvě při stisku, dvě při uvolnění) s informacemi o kódu klávesy a o znaku.",
+            "Výjimka, Windows se pak ukončí.",
+            "Jen zpráva s ASCII kódem stisknuté klávesy.",
+            "Trojice zpráv s informací o stisku, uvolnění a kódu klávesy."
+        ],
+        "answers": [
+            "Trojice zpráv s informací o stisku, uvolnění a kódu klávesy."
+        ]
+    },
+    {
+        "question": "Návrhový vzor MVC je:",
+        "options": [
+            "Minimal Visual Concensus - každý vizuální prvek (např. tlačítko) dělá pouze nejnutnější funkce.",
+            "Multimodal Virtual Command - abstraktní rozhraní pro zpracování příkazu v různých případech.",
+            "Mutual Vector Coordination - optimální spolupráce vektorů reprezentující pole.",
+            "Model View Controller - data jsou oddělené od jejich reprezentace."
+        ],
+        "answers": [
+            "Model View Controller - data jsou oddělené od jejich reprezentace."
+        ]
+    },
+    {
+        "question": "Wireframes v návrhu (mobilních) uživatelských rozhraní jsou:",
+        "options": [
+            "Typicky rukou na papír kreslené prvotní návrhy rozložení obrazovek a dalších prvků UI.",
+            "Struktury pomocných tříd a objektů umožňující vzájemnou komunikaci a persistenci hlavních konstrukcí programu realizujícího uživatelské rozhraní.",
+            "Přístup oddělující vzhled uživatelského rozhraní (grafický design, rozložení prvků, reakce na změny rozlišení a orientace displeje, atp.) od programu obsluhujícího události.",
+            "Obvyklé prvky uživatelského rozhraní doporučené výrobcem platformy, obdoba návrhových vzorů v programování."
+        ],
+        "answers": [
+            "Typicky rukou na papír kreslené prvotní návrhy rozložení obrazovek a dalších prvků UI."
+        ]
+    },
+    {
+        "question": "Kdy je správné nastavovat vlastnost (property) DataContext u cíle data bindingu ve WPF (Windows Presentation Foundation)?",
+        "options": [
+            "Vždy, když se v datovém zdroji změnila data.",
+            "Vždy, když chceme překreslit cíl data bindingu.",
+            "Jen jednou nebo pokud chceme čerpat data z jiného datového zdroje než z aktuálně nastaveného.",
+            "Nejlépe nikdy, ušetří se tím čas a peníze."
+        ],
+        "answers": [
+            "Jen jednou nebo pokud chceme čerpat data z jiného datového zdroje než z aktuálně nastaveného."
+        ]
+    },
+    {
+        "question": "Device context je:",
+        "options": [
+            "Abstrakce pro sjednocení služeb polohovacích zařízení.",
+            "\"Zlatá pravidla\" pro přípravu grafických rozhraní.",
+            "API ke grafickým akcelerátorům.",
+            "Datová struktura využívaná ve Windows pro grafický výstup."
+        ],
+        "answers": [
+            "Datová struktura využívaná ve Windows pro grafický výstup."
+        ]
+    },
+    {
+        "question": "QML je:",
+        "options": [
+            "Knihovna pro strojové učení Qt Machine Learning.",
+            "Část Qt pro vykreslování HTML stránek.",
+            "Přizpůsobení Qt pro funkcionální programovací jazyk ML (podobně jako PyQT pro Python).",
+            "Deklarativní programovací jazyk pro rychlé prototypování uživatelských rozhraní."
+        ],
+        "answers": [
+            "Deklarativní programovací jazyk pro rychlé prototypování uživatelských rozhraní."
+        ]
+    },
+    {
+        "question": "Zprávy se ve Windows:",
+        "options": [
+            "Zasílají z programu do periferních zařízení.",
+            "Ruší automaticky pokud je program \"zaneprázdněn\".",
+            "Přednostně vyřizují programy před jinou činností.",
+            "Používají (mimo jiné) jako prostředek předávání údajů od klávesnice a myší."
+        ],
+        "answers": [
+            "Používají (mimo jiné) jako prostředek předávání údajů od klávesnice a myší."
+        ]
+    },
+    {
+        "question": "Funkce nastavená pro obsluhu události readystatechange objektu XmlHttpRequest je volána:",
+        "options": [
+            "Právě jednou - při dokončení komunikace, kdy už s daty lze pracovat.",
+            "Nejvýše jednou - při dokončení komunikace, ale v případě chyby nebude zavolána.",
+            "Obecně vícekrát v průběhu komunikace.",
+            "Objekt XmlHttpRequest takovou událost nevyvolává."
+        ],
+        "answers": [
+            "Obecně vícekrát v průběhu komunikace."
+        ]
+    },
+    {
+        "question": "Na zvolený prvek uživatelského rozhraní (tzv. Widget) je použito rozložení (angl. Layout). Tímto nastavením se obvykle snažíme ovlivnit hlavně velikost a pozici prvků:",
+        "options": [
+            "V jeho okolí (jeho sourozenců ve stromové hierarchii).",
+            "Uvnitř daného prvku (dceřiných prvků ve stromové hierarchii).",
+            "Vně v rámci daného okna (přímo nadřazených prvků ve stromové hierarchii).",
+            "Vně včetně ostatních oken zobrazených na obrazovce."
+        ],
+        "answers": [
+            "Uvnitř daného prvku (dceřiných prvků ve stromové hierarchii)."
+        ]
+    },
+    {
+        "question": "Jaké vlastnosti má StackPanel v prostředí WPF?",
+        "options": [
+            "Umí zarovnávat prvky ve směru osy X i Y zároveň.",
+            "Jeho výstup lze přizpůsobit nastavením stylu, který určuje pozadí, okraje a okraje elementů.",
+            "Zajišťuje, že jeho potomci jsou zarovnáni buď horizontálně nebo vertikálně podle nastavení vlastnosti Orientation.",
+            "Podporuje scrollování jeho obsahu automaticky, pokud obsah přesahuje velikost elementu."
+        ],
+        "answers": [
+            "Zajišťuje, že jeho potomci jsou zarovnáni buď horizontálně nebo vertikálně podle nastavení vlastnosti Orientation."
+        ]
+    },
+    {
+        "question": "Při návrhu uživatelského rozhraní je nutné zajistit:",
+        "options": [
+            "Maximální množství funkcionality na minimální plochu obrazovky.",
+            "Jasnou zpětnou vazbu pro uživatele o stavu aplikace.",
+            "Všechny možnosti uživatele dostupné ihned na první obrazovce.",
+            "Konzistentní vzhled a chování prvků v celé aplikaci."
+        ],
+        "answers": [
+            "Jasnou zpětnou vazbu pro uživatele o stavu aplikace.",
+            "Konzistentní vzhled a chování prvků v celé aplikaci."
+        ]
+    },
+    {
+        "question": "Qt Designer umožňuje:",
+        "options": [
+            "Překládání projektů napsaných v Qt.",
+            "Tvorbu formulářů a jejich propojení s datovými modely.",
+            "Kompletní správu zdrojového kódu aplikace.",
+            "Přizpůsobení Qt pro různé platformy."
+        ],
+        "answers": [
+            "Tvorbu formulářů a jejich propojení s datovými modely."
+        ]
+    },
+    {
+        "question": "Co je XAML v prostředí .NET?",
+        "options": [
+            "Standard pro definování UI na webu.",
+            "Proprietární technologie Microsoftu pro návrh databází.",
+            "Jazyk pro definování a inicializaci uživatelských rozhraní.",
+            "Nástroj pro transformaci XML dokumentů."
+        ],
+        "answers": [
+            "Jazyk pro definování a inicializaci uživatelských rozhraní."
+        ]
+    },
+    {
+        "question": "Rozhraní WinAPI je:",
+        "options": [
+            "Sada tříd a metod dostupná ve Windows, umožňující přímý přístup k hardware.",
+            "Knihovna pro snadnou tvorbu grafických uživatelských rozhraní ve Windows.",
+            "Sada funkcí dostupných ve Windows pro přímé programování aplikací.",
+            "Vrstva umožňující propojení mezi aplikacemi třetích stran a Windows prostředím."
+        ],
+        "answers": [
+            "Sada funkcí dostupných ve Windows pro přímé programování aplikací."
+        ]
+    },
+    {
+        "question": "Při návrhu uživatelského rozhraní je klíčové:",
+        "options": [
+            "Minimalizovat počet kroků pro provedení úkolu.",
+            "Navrhnout co nejvíce interaktivní a vizuálně složitý design.",
+            "Používat jen standardní prvky uživatelského rozhraní bez inovací.",
+            "Nabídnout všechny možné akce na jedné obrazovce."
+        ],
+        "answers": [
+            "Minimalizovat počet kroků pro provedení úkolu."
+        ]
+    },
+    {
+        "question": "V prostředí WPF může být DataBinding použit pro:",
+        "options": [
+            "Propojení vlastností UI prvků se zdroji dat.",
+            "Automatické generování kódu pro UI aplikace.",
+            "Přímé propojení hardware a software komponent.",
+            "Definování stylu a vzhledu prvků."
+        ],
+        "answers": [
+            "Propojení vlastností UI prvků se zdroji dat."
+        ]
+    },
+    {
+        "question": "Co představuje událost OnClick v GUI frameworku?",
+        "options": [
+            "Speciální grafický prvek, který reaguje na kliknutí.",
+            "Mechanismus pro detekci chyby uživatele při používání UI.",
+            "Obsluhu akce, která se spustí po kliknutí na prvek UI.",
+            "Funkci umožňující vypnout klikání na všechny prvky UI."
+        ],
+        "answers": [
+            "Obsluhu akce, která se spustí po kliknutí na prvek UI."
+        ]
+    },
+    {
+        "question": "Co je to Grid v prostředí WPF?",
+        "options": [
+            "Grafická tabulka umožňující zobrazování dat.",
+            "Layout panel pro umisťování prvků do řádků a sloupců.",
+            "Knihovna pro práci s maticemi v reálném čase.",
+            "Funkce pro vykreslování grafických prvků v pravidelných intervalech."
+        ],
+        "answers": [
+            "Layout panel pro umisťování prvků do řádků a sloupců."
+        ]
+    },
+    {
+        "question": "Qt Signals and Slots mechanismus je:",
+        "options": [
+            "Propojení mezi objekty pro zpracování událostí.",
+            "Funkce pro zpracování více vláken současně.",
+            "Knihovna pro práci s grafikou v Qt.",
+            "Nástroj pro optimalizaci výkonu aplikace."
+        ],
+        "answers": [
+            "Propojení mezi objekty pro zpracování událostí."
+        ]
+    },
+    {
+        "question": "Při návrhu uživatelského rozhraní by mělo být respektováno:",
+        "options": [
+            "Minimalizování změn kontextu uživatele.",
+            "Vytváření co největšího množství možností.",
+            "Časté zobrazování potvrzovacích dialogů.",
+            "Použití složitých animací pro přechody."
+        ],
+        "answers": [
+            "Minimalizování změn kontextu uživatele."
+        ]
+    },
+    {
+        "question": "Canvas v prostředí WPF slouží pro:",
+        "options": [
+            "Automatické rozmístění prvků na základě velikosti okna.",
+            "Ručně definované umístění prvků pomocí souřadnic.",
+            "Interaktivní zobrazování dat v tabulkové podobě.",
+            "Propojení dat s grafickými prvky UI."
+        ],
+        "answers": [
+            "Ručně definované umístění prvků pomocí souřadnic."
+        ]
+    },
+    {
+        "question": "Rozložení prvků pomocí DockPanel v prostředí WPF umožňuje:",
+        "options": [
+            "Automatické rozmístění prvků na základě jejich priorit.",
+            "Umisťování prvků na okraje kontejneru (nahoru, dolů, vlevo, vpravo).",
+            "Vytváření dynamických tabulek pro zobrazení dat.",
+            "Rozmístění prvků ve formě vrstvených panelů."
+        ],
+        "answers": [
+            "Umisťování prvků na okraje kontejneru (nahoru, dolů, vlevo, vpravo)."
+        ]
+    },
+    {
+        "question": "Jaká je role XML v moderních aplikacích?",
+        "options": [
+            "Slouží k vytváření uživatelských rozhraní.",
+            "Je výhradně používán pro ukládání dat v databázích.",
+            "Je univerzálním formátem pro výměnu dat mezi systémy.",
+            "Je náhradou za všechny ostatní formáty ukládání dat."
+        ],
+        "answers": [
+            "Je univerzálním formátem pro výměnu dat mezi systémy."
+        ]
+    },
+    {
+        "question": "Co je to RelativePanel v prostředí UWP (Universal Windows Platform)?",
+        "options": [
+            "Panel pro relativní umisťování prvků vůči sobě.",
+            "Layout panel pro práci s grafickými prvky v reálném čase.",
+            "Nástroj pro optimalizaci výkonu uživatelského rozhraní.",
+            "Komponenta pro automatické vykreslování textu."
+        ],
+        "answers": [
+            "Panel pro relativní umisťování prvků vůči sobě."
+        ]
+    },
+    {
+        "question": "Event-driven programming znamená:",
+        "options": [
+            "Program reaguje na události generované uživatelem nebo systémem.",
+            "Program běží ve více vláknech a synchronizuje data mezi nimi.",
+            "Program reaguje na předdefinované časové intervaly.",
+            "Program spouští všechny akce na základě předem daného pořadí."
+        ],
+        "answers": [
+            "Program reaguje na události generované uživatelem nebo systémem."
+        ]
+    },
+    {
+        "question": "Co umožňuje použití DependencyProperty v WPF?",
+        "options": [
+            "Optimalizaci výkonu programu při práci s velkými datovými strukturami.",
+            "Vytváření vlastností, které podporují data binding, animace a styly.",
+            "Rozšíření funkcionality aplikace o nové knihovny.",
+            "Přímé propojení mezi hardware a UI."
+        ],
+        "answers": [
+            "Vytváření vlastností, které podporují data binding, animace a styly."
+        ]
+    },
+    {
+        "question": "V čem spočívá hlavní výhoda použití prototypování při návrhu UI?",
+        "options": [
+            "Umožňuje rychle vytvořit kompletní funkční aplikaci.",
+            "Umožňuje testovat a iterovat návrhy uživatelského rozhraní před zahájením vývoje.",
+            "Zajišťuje, že konečný produkt bude kompatibilní se všemi zařízeními.",
+            "Umožňuje okamžitou implementaci nových funkcí bez dalšího plánování."
+        ],
+        "answers": [
+            "Umožňuje testovat a iterovat návrhy uživatelského rozhraní před zahájením vývoje."
+        ]
+    },
+    {
+        "question": "Binding v prostředí WPF:",
+        "options": [
+            "Umožňuje propojení prvků UI s datovým zdrojem.",
+            "Automaticky generuje nové datové struktury.",
+            "Je metoda pro optimalizaci síťových požadavků.",
+            "Definuje pravidla pro vykreslování grafiky."
+        ],
+        "answers": [
+            "Umožňuje propojení prvků UI s datovým zdrojem."
+        ]
+    },
+    {
+        "question": "Co je hlavní účel použití animací v uživatelském rozhraní?",
+        "options": [
+            "Zlepšení estetického dojmu z aplikace.",
+            "Minimalizace zdrojových požadavků aplikace.",
+            "Zvýšení rychlosti uživatelských interakcí.",
+            "Zajištění lepší orientace uživatele a plynulosti přechodů."
+        ],
+        "answers": [
+            "Zajištění lepší orientace uživatele a plynulosti přechodů."
+        ]
+    },
+    {
+        "question": "Při stisku klávesy se ve Windows zašle zpráva:",
+        "options": [
+            "oknu, nad kterým se nachází myší kurzor",
+            "všem aplikacím",
+            "oknu aplikace, které má 'focus' (je na ně 'zaostřeno' a má zvýrazněný nadpis)",
+            "aplikacím, které se zaregistrovaly k odběru zpráv z klávesnice"
+        ],
+        "answers": [
+            "oknu aplikace, které má 'focus' (je na ně 'zaostřeno' a má zvýrazněný nadpis)"
+        ]
+    },
+    {
+        "question": "QWidget je:",
+        "options": [
+            "základní grafické primitivum v Qt",
+            "základní nevizuální třída v Qt",
+            "třída reprezentující data v návrhovém vzoru MVC",
+            "nástroj využívaný při překladu Qt"
+        ],
+        "answers": [
+            "základní grafické primitivum v Qt"
+        ]
+    },
+    {
+        "question": "Jaké jsou vlastnosti GTK platformy (jaká tvrzení platí)?",
+        "options": [
+            "řízené událostmi",
+            "více-platformní",
+            "pouze pro Linux platformy",
+            "řízené místem v programu",
+            "v jazyku C a využití GObjektu"
+        ],
+        "answers": [
+            "řízené událostmi",
+            "více-platformní",
+            "v jazyku C a využití GObjektu"
+        ]
+    },
+    {
+        "question": "Modální dialogové okno:",
+        "options": [
+            "Umožňuje vrátit řízení nadřazené aplikaci i když není uzavřené",
+            "Znemožní pracovat s libovolnou aplikací v systému, dokud není uzavřeno",
+            "Nemůže být nikdy zobrazeno, běží vždy na pozadí",
+            "Neumožňuje pokračovat nadřazené aplikaci, dokud není uzavřeno"
+        ],
+        "answers": [
+            "Neumožňuje pokračovat nadřazené aplikaci, dokud není uzavřeno"
+        ]
+    },
+    {
+        "question": "Tabulky kaskádových stylů (Cascading Style Sheets) slouží:",
+        "options": [
+            "k tvorbě dynamických stránek v jazyce DHTML",
+            "k popisu funkcí jednotlivých elementů napsaných ve značkovacích jazycích HTML, XHTML nebo XML",
+            "k popisu způsobu zobrazení stránek napsaných ve značkovacích jazycích HTML, XHTML nebo XML",
+            "nástroj pro tvorbu tabulek v HTML"
+        ],
+        "answers": [
+            "k popisu způsobu zobrazení stránek napsaných ve značkovacích jazycích HTML, XHTML nebo XML"
+        ]
+    },
+    {
+        "question": "Resource soubor (.rc) ve Windows obvykle NEOBSAHUJE:",
+        "options": [
+            "ikony",
+            "kurzory",
+            "texty",
+            "zdrojový kód programu"
+        ],
+        "answers": [
+            "zdrojový kód programu"
+        ]
+    },
+    {
+        "question": "Přímá manipulace s objekty u GUI definuje:",
+        "options": [
+            "vratnost jednotlivých akcí",
+            "okamžitou odezvu na akci uživatele",
+            "rozložení prvků GUI",
+            "grafický styl dobré použitelnosti GUI"
+        ],
+        "answers": [
+            "vratnost jednotlivých akcí",
+            "okamžitou odezvu na akci uživatele"
+        ]
+    },
+    {
+        "question": "Při prototypování GUI je validace a verifikace vhodná pro zjištění:",
+        "options": [
+            "nutné doby k dokončení úkolu",
+            "poměru úspěšných a neúspěšných pokusů",
+            "čas strávený řešením chyb",
+            "funkčních chyb produktu",
+            "finanční náročnosti vývoje produktu"
+        ],
+        "answers": [
+            "nutné doby k dokončení úkolu",
+            "poměru úspěšných a neúspěšných pokusů",
+            "čas strávený řešením chyb"
+        ]
+    },
+    {
+        "question": "Proč je technologie DOM (Document Object Model) důležitá pro tvorbu uživatelských rozhraní webových aplikací?",
+        "options": [
+            "Slouží pouze pro zobrazování dat přijatých asynchronně technologií AJAX.",
+            "Umožňuje nám měnit strukturu webové stránky za běhu.",
+            "Protože její implementace je ve všech prohlížečích stoprocentně kompatibilní.",
+            "Jiná technologie neumožňuje adresovat konkrétní prvky webové stránky."
+        ],
+        "answers": [
+            "Umožňuje nám měnit strukturu webové stránky za běhu."
+        ]
+    },
+    {
+        "question": "Čím je vykreslování WPF (Windows Presentation Foundation) komponent (a kompozitních efektů ve Windows) akcelerováno?",
+        "options": ["OpenGL", "Direct3D", "CUDA", "XNA"],
+        "answers": ["Direct3D"]
+    },
+    {
+        "question": "Jakými technikami zjišťujeme uživatelské názory?",
+        "options": ["Pohovorem.", "Dotazníkem.", "Přímým pozorováním.", "Nepřímým pozorováním."],
+        "answers": ["Pohovorem.", "Dotazníkem."]
+    },
+    {
+        "question": "QObject je",
+        "options": [
+            "základní grafické primitivum v Qt",
+            "základní nevizuální třída v Qt",
+            "třída reprezentující data v návrhovém vzoru MVC",
+            "nástroj využívaný při překladu Qt"
+        ],
+        "answers": ["základní nevizuální třída v Qt"]
+    },
+    {
+        "question": "Do pravidel dobrého návrhu uživatelského rozhraní patří:",
+        "options": [
+            "transparentní provádění akcí, kdy akce nelze přerušit či vrátit zpět",
+            "rozhraní respektuje široké spektrum skupin uživatelů",
+            "uživatel si musí rozhraní dobře pamatovat",
+            "předvídatelnost rozhraní"
+        ],
+        "answers": [
+            "rozhraní respektuje široké spektrum skupin uživatelů",
+            "předvídatelnost rozhraní"
+        ]
+    },
+    {
+        "question": "Zprávy se ve Windows:",
+        "options": [
+            "zasílají z programu do periferních zařízení",
+            "ruší automaticky pokud je program 'zaneprázdněn'",
+            "přednostně vyřizují programy před jinou činností",
+            "používají (mimo jiné) jako prostředek předávání údajů od klávesnice a myší"
+        ],
+        "answers": ["používají (mimo jiné) jako prostředek předávání údajů od klávesnice a myší"]
+    },
+    {
+        "question": "Responzivní design u webových uživatelských rozhraní znamená:",
+        "options": [
+            "Neblokující zajištění komunikace se serverem",
+            "Plynulá reakce vzhledu GUI na parametry zobrazení",
+            "Přenos náročných výpočtů na pozadí, aby prohlížeč nebyl blokován",
+            "Implementace různých stylů webové stránky, mezi kterými může uživatel přepínat"
+        ],
+        "answers": ["Plynulá reakce vzhledu GUI na parametry zobrazení"]
+    },
+    {
+        "question": "Qt Resources umožňuje:",
+        "options": [
+            "získat dokumentaci k jednotlivým prvkům GUI v knihovně Qt",
+            "při překladu vložit do výsledného programu (například exe souboru) datové soubory (obrázky, qml, lokalizace, atd.)",
+            "přistupovat ke všem prvkům GUI v knihovně Qt jednotným způsobem (pomocí ukazatele na objekt třídy QVariant)",
+            "ladění výkonu aplikace (tzv. profiling)"
+        ],
+        "answers": [
+            "při překladu vložit do výsledného programu (například exe souboru) datové soubory (obrázky, qml, lokalizace, atd.)"
+        ]
+    },
+    {
+        "question": "Jak se projeví nastavení barvy štětce při kreslení čáry pomocí funkce LineTo() ve WinAPI:",
+        "options": [
+            "vykreslená čára bude mít barvu nastaveného štětce",
+            "pokud se opakovaným voláním funkce LineTo() nakreslí uzavřený objekt, bude vyplněn barvou štětce",
+            "nebude mít žádný efekt",
+            "pokud bude čára širší než dva pixely, bude barva štětce použita na její vnitřní část"
+        ],
+        "answers": ["nebude mít žádný efekt"]
+    },
+    {
+        "question": "Součástí Qt toolkitu je nástroj na tvorbu GUI, který se jmenuje:",
+        "options": [
+            "glade",
+            "xmkmf",
+            "designer",
+            "Builder"
+        ],
+        "answers": [
+            "designer"
+        ]
+    },
+    {
+        "question": "Konvertéry ve WPF se používají na:",
+        "options": [
+            "změnu dat z jednoho typu na jiný při jejich zobrazování",
+            "změnu dat z jednoho typu na jiný při jejich přenosu přes síť",
+            "ukládání velkého množství dat, zejména při nestrukturovaných datech",
+            "ukládání a zpracování dat, zejména při jejich zpracování ve více vláknech"
+        ],
+        "answers": [
+            "změnu dat z jednoho typu na jiný při jejich zobrazování"
+        ]
+    },
+    {
+        "question": "Qt controls je:",
+        "options": [
+            "nástroj pro přehrávání zvuku",
+            "předpřipravené základní prvky (jako například tlačítka, rozbalovací menu) vytvořené pro jazyk QML",
+            "Qt API pro vytváření ovladačů k hardware",
+            "rozhraní pro herní zařízení (například Wii-mote nebo Kinect)"
+        ],
+        "answers": [
+            "předpřipravené základní prvky (jako například tlačítka, rozbalovací menu) vytvořené pro jazyk QML"
+        ]
+    },
+    {
+        "question": "Data ve formátu JSON pomocí JavaScriptu NELZE zpracovat:",
+        "options": [
+            "Využitím parseru HTML v prohlížeči a procházením pomocí rozhraní DOM.",
+            "Aplikací vhodného regulárního výrazu, protože je JavaScript nativně nepodporuje.",
+            "Zavoláním parseru JSON obvykle vestavěného v prohlížeči.",
+            "Zavoláním interpretu JavaScriptu a přístupem pomocí jeho vlastní syntaxe."
+        ],
+        "answers": [
+            "Využitím parseru HTML v prohlížeči a procházením pomocí rozhraní DOM."
+        ]
+    },
+    {
+        "question": "Jak se projeví nastavení barvy štětce při kreslení čáry pomocí funkce LineTo() ve WinAPI:",
+        "options": [
+            "vykreslená čára bude mít barvu nastaveného štětce",
+            "pokud se opakovaným voláním funkce LineTo() nakreslí uzavřený objekt, bude vyplněn barvou štětce",
+            "nebude mít žádný efekt",
+            "pokud bude čára širší než dva pixely, bude barva štětce použita na její vnitřní část"
+        ],
+        "answers": [
+            "nebude mít žádný efekt"
+        ]
+    },
+    {
+        "question": "Jaké jsou principy zajištění použitelnosti GUI?",
+        "options": [
+            "Pochopitelnost - míra úsilí potřebná k naučení se pracovat se systémem",
+            "Flexibilita - zajištění více způsobů, jak si uživatel se systémem vyměňuje informace",
+            "Robustnost - kolik podpory systém dává uživateli, aby dosáhl svých cílů",
+            "Funkčnost - zajištění okamžitého využití všech funkcí systému, aby byl systém zcela využit"
+        ],
+        "answers": [
+            "Pochopitelnost - míra úsilí potřebná k naučení se pracovat se systémem",
+            "Flexibilita - zajištění více způsobů, jak si uživatel se systémem vyměňuje informace",
+            "Robustnost - kolik podpory systém dává uživateli, aby dosáhl svých cílů"
+        ]
+    },
+    {
+        "question": "Do pravidel dobrého návrhu uživatelského rozhraní patří:",
+        "options": [
+            "transparentní provádění akcí, kdy akce nelze přerušit či vrátit zpět",
+            "rozhraní respektuje široké spektrum skupin uživatelů",
+            "uživatel si musí rozhraní dobře pamatovat",
+            "předvídatelnost rozhraní"
+        ],
+        "answers": [
+            "rozhraní respektuje široké spektrum skupin uživatelů",
+            "předvídatelnost rozhraní"
+        ]
+    },
+    {
+        "question": "Interaktivní reakce webové stránky pomocí jazyka JavaScript programujeme:",
+        "options": [
+            "Nastavením funkcí pro obsluhu událostí jednotlivých prvků stránky.",
+            "Vytvořením jednotné smyčky zpráv a rozvětvením kódu dle typu události.",
+            "Přepsáním funkce dispatchEvent třídy document.",
+            "Deklarací vhodně pojmenovaných funkcí interpret sám zajistí, aby se volaly při vzniku dané události."
+        ],
+        "answers": [
+            "Nastavením funkcí pro obsluhu událostí jednotlivých prvků stránky."
+        ]
+    },
+    {
+        "question": "Stav kláves na klávesnici a myši lze ve Windows zjistit:",
+        "options": [
+            "pouze ze zpráv přicházejících od myši a klávesnice",
+            "z parametrů zpráv od klávesnice a myši a/nebo voláním API funkcí",
+            "až po uplynutí 'timeout' v řádu stovek milisekund od události",
+            "jen prostřednictvím API funkcí"
+        ],
+        "answers": [
+            "z parametrů zpráv od klávesnice a myši a/nebo voláním API funkcí"
+        ]
+    },
+    {
+        "question": "Který řádek obsahuje jen a pouze správné typy Data Bindingu WPF (Windows Presentation Foundation)?",
+        "options": [
+            "OneTime, OneWay, TwoWay",
+            "FirstTime, OneWay, ThreeWay",
+            "TwoWay, Disable, OneTime",
+            "OneTime, OnePath, TwoPath"
+        ],
+        "answers": [
+            "OneTime, OneWay, TwoWay"
+        ]
+    },
+    {
+        "question": "Jaké informace jsou nutné pro zajištění práv testerů?",
+        "options": [
+            "Informovat je o průběhu testu a o využití informací",
+            "Informovat je, že nejsou hodnoceni oni jako testeři, ale je testován produkt.",
+            "Anonymní přístup",
+            "Jména osob provádějících test."
+        ],
+        "answers": [
+            "Informovat je o průběhu testu a o využití informací",
+            "Informovat je, že nejsou hodnoceni oni jako testeři, ale je testován produkt.",
+            "Anonymní přístup"
+        ]
+    },
+    {
+        "question": "U režimu oken MDI (Multiple-Document Interface) platí, že",
+        "options": [
+            "lze pracovat s více objekty současně",
+            "v liště se objeví několik instancí aplikace",
+            "každé okno má své menu",
+            "nelze pracovat s jedním objektem z více pohledů"
+        ],
+        "answers": [
+            "lze pracovat s více objekty současně"
+        ]
+    },
+    {
+        "question": "Při zpracování událostí v Qt pro následující kód NEPLATÍ \"QObject::connect(&a, SIGNAL(valueChanged(int)), this, SLOT(setValue(int)));\"",
+        "options": [
+            "\"&a\" musí být vizuální komponenta",
+            "\"valueChanged(int)\" popisuje jen předávané proměnné. Její kód se generuje pomocí moc (Meta Object Compiler).",
+            "\"this\" je ukazatel na objekt, který má reagovat na událost",
+            "\"setValue(int)\" je metoda, jejíž kód se vykoná, když nastane událost (emit)"
+        ],
+        "answers": [
+            "\"&a\" musí být vizuální komponenta"
+        ]
+    }
+    
+    
+     
+]

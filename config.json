@@ -1,0 +1,10 @@
+[
+    {
+        "name": "ITU",
+        "questions": "questions_ITU.json"
+    },
+    {
+        "name": "ITA",
+        "questions": "questions_ITA.json"
+    }
+]
